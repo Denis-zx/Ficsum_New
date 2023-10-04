@@ -1,0 +1,1487 @@
+INFO:root:overlap = 0.2
+INFO:root:
+INFO:root:step_counter 0
+INFO:root:step_counter 1
+INFO:root:similarity: -0.3269077368040383
+INFO:root:0.8
+INFO:root:step_counter 2
+INFO:root:similarity: -0.14360199283013086
+INFO:root:1.0
+INFO:root:step_counter 3
+INFO:root:similarity: -0.2834477922630748
+INFO:root:1.0
+INFO:root:step_counter 4
+INFO:root:similarity: -0.4146775201174011
+INFO:root:1.0
+INFO:root:step_counter 5
+INFO:root:similarity: -0.2592323120922311
+INFO:root:1.0
+INFO:root:step_counter 6
+INFO:root:similarity: -0.09539477147006115
+INFO:root:1.0
+INFO:root:step_counter 7
+INFO:root:similarity: -0.3802702929913532
+INFO:root:1.0
+INFO:root:step_counter 8
+INFO:root:Classifier: 1, Accuracy: 1.0
+INFO:root:new classifier generate
+INFO:root:step_counter 9
+INFO:root:similarity: -0.3972129233982872
+INFO:root:1.0
+INFO:root:step_counter 10
+INFO:root:similarity: -0.1523199288696505
+INFO:root:1.0
+INFO:root:step_counter 11
+INFO:root:similarity: -0.14344043416213137
+INFO:root:1.0
+INFO:root:step_counter 12
+INFO:root:similarity: -0.16069043858240073
+INFO:root:1.0
+INFO:root:step_counter 13
+INFO:root:similarity: -0.07596682766193108
+INFO:root:1.0
+INFO:root:step_counter 14
+INFO:root:similarity: -0.12885601054275309
+INFO:root:0.8
+INFO:root:step_counter 15
+INFO:root:similarity: -0.1131198541391416
+INFO:root:0.8
+INFO:root:step_counter 16
+INFO:root:similarity: -0.17216431877783978
+INFO:root:1.0
+INFO:root:step_counter 17
+INFO:root:similarity: -0.1455553497251345
+INFO:root:1.0
+INFO:root:step_counter 18
+INFO:root:similarity: -0.13026891303224586
+INFO:root:0.8
+INFO:root:step_counter 19
+INFO:root:similarity: -0.17054228615265876
+INFO:root:1.0
+INFO:root:step_counter 20
+INFO:root:similarity: -0.10244865018958327
+INFO:root:0.8
+INFO:root:step_counter 21
+INFO:root:similarity: -0.16751045468613623
+INFO:root:0.8
+INFO:root:step_counter 22
+INFO:root:similarity: -0.19429416243437891
+INFO:root:0.8
+INFO:root:step_counter 23
+INFO:root:similarity: -0.09318061502460084
+INFO:root:1.0
+INFO:root:step_counter 24
+INFO:root:similarity: -0.16769633177130205
+INFO:root:1.0
+INFO:root:step_counter 25
+INFO:root:similarity: -0.14365811021996988
+INFO:root:0.8
+INFO:root:step_counter 26
+INFO:root:similarity: -0.18760229233824088
+INFO:root:0.8
+INFO:root:step_counter 27
+INFO:root:similarity: -0.14812571482680592
+INFO:root:0.8
+INFO:root:step_counter 28
+INFO:root:similarity: -0.13019419787337194
+INFO:root:1.0
+INFO:root:step_counter 29
+INFO:root:similarity: -0.11383961174785229
+INFO:root:1.0
+INFO:root:step_counter 30
+INFO:root:similarity: -0.2319463971652167
+INFO:root:0.8
+INFO:root:step_counter 31
+INFO:root:similarity: -0.20674405863504453
+INFO:root:1.0
+INFO:root:step_counter 32
+INFO:root:similarity: -0.09041019206373868
+INFO:root:0.8
+INFO:root:step_counter 33
+INFO:root:similarity: -0.1260161606434097
+INFO:root:0.8
+INFO:root:step_counter 34
+INFO:root:similarity: -0.12769566690983802
+INFO:root:1.0
+INFO:root:step_counter 35
+INFO:root:similarity: -0.18115609070637317
+INFO:root:1.0
+INFO:root:step_counter 36
+INFO:root:similarity: -0.19098416722227118
+INFO:root:0.8
+INFO:root:step_counter 37
+INFO:root:similarity: -0.15260287909875647
+INFO:root:1.0
+INFO:root:step_counter 38
+INFO:root:similarity: -0.16819652298435572
+INFO:root:0.8
+INFO:root:step_counter 39
+INFO:root:similarity: -0.10764918104289711
+INFO:root:1.0
+INFO:root:step_counter 40
+INFO:root:similarity: -0.13946933845973208
+INFO:root:0.8
+INFO:root:step_counter 41
+INFO:root:similarity: -0.16428519022983978
+INFO:root:1.0
+INFO:root:step_counter 42
+INFO:root:similarity: -0.2122021752605212
+INFO:root:1.0
+INFO:root:step_counter 43
+INFO:root:similarity: -0.1276725918086078
+INFO:root:1.0
+INFO:root:step_counter 44
+INFO:root:similarity: -0.1486886139605833
+INFO:root:1.0
+INFO:root:step_counter 45
+INFO:root:similarity: -0.11539603267862286
+INFO:root:1.0
+INFO:root:step_counter 46
+INFO:root:similarity: -0.20894394782421233
+INFO:root:1.0
+INFO:root:step_counter 47
+INFO:root:similarity: -0.16110156288985444
+INFO:root:1.0
+INFO:root:step_counter 48
+INFO:root:similarity: -0.1496892081262704
+INFO:root:1.0
+INFO:root:step_counter 49
+INFO:root:similarity: -0.08764932788127278
+INFO:root:1.0
+INFO:root:step_counter 50
+INFO:root:similarity: -0.18860049320249617
+INFO:root:cur_classifier_idx = 2, similarity list [-0.3972129233982872, -0.1523199288696505]
+INFO:root:0.4
+INFO:root:step_counter 51
+INFO:root:similarity: -0.28326475742071966
+INFO:root:0.8
+INFO:root:step_counter 52
+INFO:root:similarity: -0.13711170994229127
+INFO:root:1.0
+INFO:root:step_counter 53
+INFO:root:similarity: -0.19435741693940511
+INFO:root:0.8
+INFO:root:step_counter 54
+INFO:root:similarity: -0.22112970496307993
+INFO:root:0.6
+INFO:root:step_counter 55
+INFO:root:similarity: -0.16135052503411296
+INFO:root:0.6
+INFO:root:step_counter 56
+INFO:root:similarity: -0.19516349938541688
+INFO:root:0.8
+INFO:root:step_counter 57
+INFO:root:similarity: -0.16457229082404767
+INFO:root:0.8
+INFO:root:step_counter 58
+INFO:root:similarity: -0.10976514352636724
+INFO:root:0.8
+INFO:root:step_counter 59
+INFO:root:similarity: -0.09570761715441789
+INFO:root:0.8
+INFO:root:step_counter 60
+INFO:root:similarity: -0.14098654699565338
+INFO:root:0.8
+INFO:root:step_counter 61
+INFO:root:similarity: -0.10964373633385338
+INFO:root:0.8
+INFO:root:step_counter 62
+INFO:root:similarity: -0.15939920651053296
+INFO:root:1.0
+INFO:root:step_counter 63
+INFO:root:similarity: -0.21655806903251196
+INFO:root:0.8
+INFO:root:step_counter 64
+INFO:root:similarity: -0.16762769996385207
+INFO:root:1.0
+INFO:root:step_counter 65
+INFO:root:similarity: -0.1701000510311651
+INFO:root:0.8
+INFO:root:step_counter 66
+INFO:root:similarity: -0.16250583655993545
+INFO:root:0.8
+INFO:root:step_counter 67
+INFO:root:similarity: -0.2216083293089922
+INFO:root:0.8
+INFO:root:step_counter 68
+INFO:root:similarity: -0.178190500430911
+INFO:root:1.0
+INFO:root:step_counter 69
+INFO:root:similarity: -0.11486590137463204
+INFO:root:1.0
+INFO:root:step_counter 70
+INFO:root:similarity: -0.13441330209191882
+INFO:root:1.0
+INFO:root:step_counter 71
+INFO:root:similarity: -0.15425908419821965
+INFO:root:0.8
+INFO:root:step_counter 72
+INFO:root:similarity: -0.1840284573826232
+INFO:root:0.8
+INFO:root:step_counter 73
+INFO:root:similarity: -0.10444499021644826
+INFO:root:1.0
+INFO:root:step_counter 74
+INFO:root:similarity: -0.11827107091826172
+INFO:root:0.8
+INFO:root:step_counter 75
+INFO:root:similarity: -0.19322967364471544
+INFO:root:1.0
+INFO:root:step_counter 76
+INFO:root:similarity: -0.0702003088106089
+INFO:root:1.0
+INFO:root:step_counter 77
+INFO:root:similarity: -0.1897279668829457
+INFO:root:1.0
+INFO:root:step_counter 78
+INFO:root:similarity: -0.17545858634957312
+INFO:root:0.8
+INFO:root:step_counter 79
+INFO:root:similarity: -0.16162462504621766
+INFO:root:0.8
+INFO:root:step_counter 80
+INFO:root:similarity: -0.22520250087463412
+INFO:root:1.0
+INFO:root:step_counter 81
+INFO:root:similarity: -0.16302437188593688
+INFO:root:1.0
+INFO:root:step_counter 82
+INFO:root:similarity: -0.18566814300836243
+INFO:root:1.0
+INFO:root:step_counter 83
+INFO:root:similarity: -0.16459051330508045
+INFO:root:0.8
+INFO:root:step_counter 84
+INFO:root:similarity: -0.2099840468171077
+INFO:root:1.0
+INFO:root:step_counter 85
+INFO:root:similarity: -0.18641669442554565
+INFO:root:1.0
+INFO:root:step_counter 86
+INFO:root:similarity: -0.13110391257024068
+INFO:root:0.8
+INFO:root:step_counter 87
+INFO:root:similarity: -0.19946450698801121
+INFO:root:0.8
+INFO:root:step_counter 88
+INFO:root:similarity: -0.13374833202545866
+INFO:root:0.6
+INFO:root:step_counter 89
+INFO:root:similarity: -0.17278232862375142
+INFO:root:1.0
+INFO:root:step_counter 90
+INFO:root:similarity: -0.17694791689329836
+INFO:root:1.0
+INFO:root:step_counter 91
+INFO:root:similarity: -0.20934397169003294
+INFO:root:0.6
+INFO:root:step_counter 92
+INFO:root:similarity: -0.18404412349049493
+INFO:root:0.6
+INFO:root:step_counter 93
+INFO:root:similarity: -0.18106638720265233
+INFO:root:0.6
+INFO:root:step_counter 94
+INFO:root:similarity: -0.2582954395937682
+INFO:root:1.0
+INFO:root:step_counter 95
+INFO:root:similarity: -0.15387450300429883
+INFO:root:cur_classifier_idx = 2, similarity list [-0.3972129233982872, -0.1523199288696505]
+INFO:root:0.2
+INFO:root:step_counter 96
+INFO:root:similarity: -0.15345426795997175
+INFO:root:0.8
+INFO:root:step_counter 97
+INFO:root:similarity: -0.19023312422488503
+INFO:root:0.8
+INFO:root:step_counter 98
+INFO:root:similarity: -0.15253353128056046
+INFO:root:1.0
+INFO:root:step_counter 99
+INFO:root:similarity: -0.11594645176689933
+INFO:root:1.0
+INFO:root:step_counter 100
+INFO:root:similarity: -0.18403497390862222
+INFO:root:1.0
+INFO:root:step_counter 101
+INFO:root:similarity: -0.13468606949951645
+INFO:root:1.0
+INFO:root:step_counter 102
+INFO:root:similarity: -0.14815991262449557
+INFO:root:1.0
+INFO:root:step_counter 103
+INFO:root:similarity: -0.12192817254988497
+INFO:root:1.0
+INFO:root:step_counter 104
+INFO:root:similarity: -0.23531181238015464
+INFO:root:cur_classifier_idx = 2, similarity list [-0.3972129233982872, -0.1523199288696505]
+INFO:root:0.4
+INFO:root:step_counter 105
+INFO:root:similarity: -0.20899375995035685
+INFO:root:0.8
+INFO:root:step_counter 106
+INFO:root:similarity: -0.11370774077929247
+INFO:root:0.8
+INFO:root:step_counter 107
+INFO:root:similarity: -0.11564402019139064
+INFO:root:0.8
+INFO:root:step_counter 108
+INFO:root:similarity: -0.11206276608263332
+INFO:root:0.8
+INFO:root:step_counter 109
+INFO:root:similarity: -0.13268308014042518
+INFO:root:1.0
+INFO:root:step_counter 110
+INFO:root:similarity: -0.16119354074855186
+INFO:root:cur_classifier_idx = 2, similarity list [-0.3972129233982872, -0.1523199288696505]
+INFO:root:0.4
+INFO:root:step_counter 111
+INFO:root:similarity: -0.17873833174296005
+INFO:root:0.8
+INFO:root:step_counter 112
+INFO:root:similarity: -0.26351585798462385
+INFO:root:1.0
+INFO:root:step_counter 113
+INFO:root:similarity: -0.07712051318544133
+INFO:root:1.0
+INFO:root:step_counter 114
+INFO:root:similarity: -0.1272453390970233
+INFO:root:1.0
+INFO:root:step_counter 115
+INFO:root:similarity: -0.2040252769779628
+INFO:root:1.0
+INFO:root:step_counter 116
+INFO:root:similarity: -0.08643627070899984
+INFO:root:1.0
+INFO:root:step_counter 117
+INFO:root:similarity: -0.08228514086551586
+INFO:root:1.0
+INFO:root:step_counter 118
+INFO:root:similarity: -0.10091603456186127
+INFO:root:1.0
+INFO:root:step_counter 119
+INFO:root:similarity: -0.0806680595136362
+INFO:root:0.8
+INFO:root:step_counter 120
+INFO:root:similarity: -0.095421444144009
+INFO:root:1.0
+INFO:root:step_counter 121
+INFO:root:similarity: -0.1922426246301382
+INFO:root:1.0
+INFO:root:step_counter 122
+INFO:root:similarity: -0.12756200690343467
+INFO:root:0.8
+INFO:root:step_counter 123
+INFO:root:similarity: -0.14562774006973822
+INFO:root:0.8
+INFO:root:step_counter 124
+INFO:root:similarity: -0.14581809823604575
+INFO:root:1.0
+INFO:root:step_counter 125
+INFO:root:similarity: -0.16282956723419417
+INFO:root:1.0
+INFO:root:step_counter 126
+INFO:root:similarity: -0.18563247570247154
+INFO:root:1.0
+INFO:root:step_counter 127
+INFO:root:similarity: -0.11477669185974859
+INFO:root:1.0
+INFO:root:step_counter 128
+INFO:root:similarity: -0.1763928607100017
+INFO:root:0.8
+INFO:root:step_counter 129
+INFO:root:similarity: -0.13955893578946954
+INFO:root:0.6
+INFO:root:step_counter 130
+INFO:root:similarity: -0.16255971196484276
+INFO:root:0.6
+INFO:root:step_counter 131
+INFO:root:similarity: -0.19560766615555958
+INFO:root:0.6
+INFO:root:step_counter 132
+INFO:root:similarity: -0.14762173448994487
+INFO:root:1.0
+INFO:root:step_counter 133
+INFO:root:similarity: -0.13309726080241335
+INFO:root:1.0
+INFO:root:step_counter 134
+INFO:root:similarity: -0.13147516680739202
+INFO:root:1.0
+INFO:root:step_counter 135
+INFO:root:similarity: -0.21260260586055257
+INFO:root:1.0
+INFO:root:step_counter 136
+INFO:root:similarity: -0.1324000117864017
+INFO:root:1.0
+INFO:root:step_counter 137
+INFO:root:similarity: -0.12839288961257656
+INFO:root:1.0
+INFO:root:step_counter 138
+INFO:root:similarity: -0.13357490247837378
+INFO:root:1.0
+INFO:root:step_counter 139
+INFO:root:similarity: -0.12286184734166339
+INFO:root:1.0
+INFO:root:step_counter 140
+INFO:root:similarity: -0.15251750745112458
+INFO:root:1.0
+INFO:root:step_counter 141
+INFO:root:similarity: -0.14251184897597835
+INFO:root:1.0
+INFO:root:step_counter 142
+INFO:root:similarity: -0.13533889789530185
+INFO:root:1.0
+INFO:root:step_counter 143
+INFO:root:similarity: -0.13149710412987548
+INFO:root:1.0
+INFO:root:step_counter 144
+INFO:root:similarity: -0.17685597343110848
+INFO:root:1.0
+INFO:root:step_counter 145
+INFO:root:similarity: -0.09388653117065315
+INFO:root:0.8
+INFO:root:step_counter 146
+INFO:root:similarity: -0.16233935304073077
+INFO:root:1.0
+INFO:root:step_counter 147
+INFO:root:similarity: -0.21243705654181388
+INFO:root:1.0
+INFO:root:step_counter 148
+INFO:root:similarity: -0.12732271665209616
+INFO:root:1.0
+INFO:root:step_counter 149
+INFO:root:similarity: -0.1431344266598249
+INFO:root:1.0
+INFO:root:step_counter 150
+INFO:root:similarity: -0.11919368887985704
+INFO:root:1.0
+INFO:root:step_counter 151
+INFO:root:similarity: -0.14353754807467822
+INFO:root:0.8
+INFO:root:step_counter 152
+INFO:root:similarity: -0.16522512249482968
+INFO:root:1.0
+INFO:root:step_counter 153
+INFO:root:similarity: -0.1563427013430876
+INFO:root:0.8
+INFO:root:step_counter 154
+INFO:root:similarity: -0.1396841183083417
+INFO:root:1.0
+INFO:root:step_counter 155
+INFO:root:similarity: -0.16476336351534437
+INFO:root:0.8
+INFO:root:step_counter 156
+INFO:root:similarity: -0.11632548733638914
+INFO:root:0.8
+INFO:root:step_counter 157
+INFO:root:similarity: -0.11605986285049152
+INFO:root:0.8
+INFO:root:step_counter 158
+INFO:root:similarity: -0.149381283175694
+INFO:root:0.8
+INFO:root:step_counter 159
+INFO:root:similarity: -0.12529239511160672
+INFO:root:0.8
+INFO:root:step_counter 160
+INFO:root:similarity: -0.15189506915651185
+INFO:root:0.8
+INFO:root:step_counter 161
+INFO:root:similarity: -0.1167775584391596
+INFO:root:0.8
+INFO:root:step_counter 162
+INFO:root:similarity: -0.10250294097763646
+INFO:root:0.8
+INFO:root:step_counter 163
+INFO:root:similarity: -0.07877387668343883
+INFO:root:0.8
+INFO:root:step_counter 164
+INFO:root:similarity: -0.1574612251297357
+INFO:root:1.0
+INFO:root:step_counter 165
+INFO:root:similarity: -0.1079155590255908
+INFO:root:1.0
+INFO:root:step_counter 166
+INFO:root:similarity: -0.13680082797290027
+INFO:root:1.0
+INFO:root:step_counter 167
+INFO:root:similarity: -0.15615850206495618
+INFO:root:0.8
+INFO:root:step_counter 168
+INFO:root:similarity: -0.24940475065414458
+INFO:root:0.6
+INFO:root:step_counter 169
+INFO:root:similarity: -0.1941365223595235
+INFO:root:1.0
+INFO:root:step_counter 170
+INFO:root:similarity: -0.12854088170716815
+INFO:root:1.0
+INFO:root:step_counter 171
+INFO:root:similarity: -0.14305172515939923
+INFO:root:1.0
+INFO:root:step_counter 172
+INFO:root:similarity: -0.20732354673967124
+INFO:root:0.8
+INFO:root:step_counter 173
+INFO:root:similarity: -0.12775251090052564
+INFO:root:1.0
+INFO:root:step_counter 174
+INFO:root:similarity: -0.13418673652059887
+INFO:root:1.0
+INFO:root:step_counter 175
+INFO:root:similarity: -0.20774112656496602
+INFO:root:0.8
+INFO:root:step_counter 176
+INFO:root:similarity: -0.14155267330651622
+INFO:root:1.0
+INFO:root:step_counter 177
+INFO:root:similarity: -0.1370545879449655
+INFO:root:1.0
+INFO:root:step_counter 178
+INFO:root:similarity: -0.13591765240016562
+INFO:root:1.0
+INFO:root:step_counter 179
+INFO:root:similarity: -0.12065954265123913
+INFO:root:0.8
+INFO:root:step_counter 180
+INFO:root:similarity: -0.1352871472682623
+INFO:root:1.0
+INFO:root:step_counter 181
+INFO:root:similarity: -0.17630164826509231
+INFO:root:1.0
+INFO:root:step_counter 182
+INFO:root:similarity: -0.16987045331298856
+INFO:root:1.0
+INFO:root:step_counter 183
+INFO:root:similarity: -0.123064626531875
+INFO:root:0.8
+INFO:root:step_counter 184
+INFO:root:similarity: -0.09785586888148112
+INFO:root:1.0
+INFO:root:step_counter 185
+INFO:root:similarity: -0.09165804119298682
+INFO:root:1.0
+INFO:root:step_counter 186
+INFO:root:similarity: -0.09906618328620065
+INFO:root:1.0
+INFO:root:step_counter 187
+INFO:root:similarity: -0.14373445235964954
+INFO:root:0.8
+INFO:root:step_counter 188
+INFO:root:similarity: -0.10520872535557979
+INFO:root:1.0
+INFO:root:step_counter 189
+INFO:root:similarity: -0.20706167262814335
+INFO:root:1.0
+INFO:root:step_counter 190
+INFO:root:similarity: -0.1442030320443003
+INFO:root:0.8
+INFO:root:step_counter 191
+INFO:root:similarity: -0.1597289646293173
+INFO:root:1.0
+INFO:root:step_counter 192
+INFO:root:similarity: -0.2140729095691748
+INFO:root:1.0
+INFO:root:step_counter 193
+INFO:root:similarity: -0.12230923877444067
+INFO:root:1.0
+INFO:root:step_counter 194
+INFO:root:similarity: -0.18857941016211188
+INFO:root:0.8
+INFO:root:step_counter 195
+INFO:root:similarity: -0.13839287659315935
+INFO:root:0.8
+INFO:root:step_counter 196
+INFO:root:similarity: -0.18513781897559267
+INFO:root:1.0
+INFO:root:step_counter 197
+INFO:root:similarity: -0.216787756383099
+INFO:root:0.8
+INFO:root:step_counter 198
+INFO:root:similarity: -0.182166602063368
+INFO:root:0.8
+INFO:root:step_counter 199
+INFO:root:similarity: -0.25098863144738426
+INFO:root:1.0
+INFO:root:step_counter 200
+INFO:root:similarity: -0.11621984552726372
+INFO:root:0.8
+INFO:root:step_counter 201
+INFO:root:similarity: -0.14122764721530057
+INFO:root:1.0
+INFO:root:step_counter 202
+INFO:root:similarity: -0.13947229706085484
+INFO:root:1.0
+INFO:root:step_counter 203
+INFO:root:similarity: -0.17901056100561086
+INFO:root:0.6
+INFO:root:step_counter 204
+INFO:root:similarity: -0.12092998284631407
+INFO:root:0.8
+INFO:root:step_counter 205
+INFO:root:similarity: -0.09387958216174608
+INFO:root:1.0
+INFO:root:step_counter 206
+INFO:root:similarity: -0.17420994563113323
+INFO:root:1.0
+INFO:root:step_counter 207
+INFO:root:similarity: -0.1518241637653056
+INFO:root:1.0
+INFO:root:step_counter 208
+INFO:root:similarity: -0.21236935309472016
+INFO:root:1.0
+INFO:root:step_counter 209
+INFO:root:similarity: -0.1129759523705206
+INFO:root:1.0
+INFO:root:step_counter 210
+INFO:root:similarity: -0.12197043577937783
+INFO:root:1.0
+INFO:root:step_counter 211
+INFO:root:similarity: -0.18039219884812652
+INFO:root:1.0
+INFO:root:step_counter 212
+INFO:root:similarity: -0.10875568525203405
+INFO:root:1.0
+INFO:root:step_counter 213
+INFO:root:similarity: -0.1113754234100307
+INFO:root:1.0
+INFO:root:step_counter 214
+INFO:root:similarity: -0.12500680459361868
+INFO:root:0.6
+INFO:root:step_counter 215
+INFO:root:similarity: -0.19951868496173286
+INFO:root:0.8
+INFO:root:step_counter 216
+INFO:root:similarity: -0.13205519821189027
+INFO:root:0.8
+INFO:root:step_counter 217
+INFO:root:similarity: -0.11343277727633383
+INFO:root:0.8
+INFO:root:step_counter 218
+INFO:root:similarity: -0.18552211192339174
+INFO:root:0.8
+INFO:root:step_counter 219
+INFO:root:similarity: -0.14679674513416352
+INFO:root:0.6
+INFO:root:step_counter 220
+INFO:root:similarity: -0.09465491154169337
+INFO:root:1.0
+INFO:root:step_counter 221
+INFO:root:similarity: -0.18530067078709733
+INFO:root:1.0
+INFO:root:step_counter 222
+INFO:root:similarity: -0.17233740129323794
+INFO:root:1.0
+INFO:root:step_counter 223
+INFO:root:similarity: -0.13377461541970626
+INFO:root:1.0
+INFO:root:step_counter 224
+INFO:root:similarity: -0.14010360691656132
+INFO:root:0.8
+INFO:root:step_counter 225
+INFO:root:similarity: -0.1694141629373045
+INFO:root:1.0
+INFO:root:step_counter 226
+INFO:root:similarity: -0.22787274612536257
+INFO:root:1.0
+INFO:root:step_counter 227
+INFO:root:similarity: -0.21040715834754598
+INFO:root:1.0
+INFO:root:step_counter 228
+INFO:root:similarity: -0.0933463739843402
+INFO:root:1.0
+INFO:root:step_counter 229
+INFO:root:similarity: -0.1306313127016573
+INFO:root:0.6
+INFO:root:step_counter 230
+INFO:root:similarity: -0.21986890816240812
+INFO:root:0.8
+INFO:root:step_counter 231
+INFO:root:similarity: -0.18462938895361447
+INFO:root:0.6
+INFO:root:step_counter 232
+INFO:root:similarity: -0.08791566226227987
+INFO:root:1.0
+INFO:root:step_counter 233
+INFO:root:similarity: -0.1551916422636247
+INFO:root:0.6
+INFO:root:step_counter 234
+INFO:root:similarity: -0.1305456993596591
+INFO:root:1.0
+INFO:root:step_counter 235
+INFO:root:similarity: -0.1334807377191839
+INFO:root:1.0
+INFO:root:step_counter 236
+INFO:root:similarity: -0.23028138273185783
+INFO:root:1.0
+INFO:root:step_counter 237
+INFO:root:similarity: -0.18432873278894746
+INFO:root:1.0
+INFO:root:step_counter 238
+INFO:root:similarity: -0.14705922648250003
+INFO:root:0.6
+INFO:root:step_counter 239
+INFO:root:similarity: -0.1671143966326457
+INFO:root:0.8
+INFO:root:step_counter 240
+INFO:root:similarity: -0.1997263400237561
+INFO:root:1.0
+INFO:root:step_counter 241
+INFO:root:similarity: -0.15376925167233702
+INFO:root:1.0
+INFO:root:step_counter 242
+INFO:root:similarity: -0.11941972008965329
+INFO:root:1.0
+INFO:root:step_counter 243
+INFO:root:similarity: -0.17692825196099837
+INFO:root:1.0
+INFO:root:step_counter 244
+INFO:root:similarity: -0.16585727814678874
+INFO:root:1.0
+INFO:root:step_counter 245
+INFO:root:similarity: -0.1894880257330176
+INFO:root:1.0
+INFO:root:step_counter 246
+INFO:root:similarity: -0.19355328456017107
+INFO:root:0.8
+INFO:root:step_counter 247
+INFO:root:similarity: -0.13777794738551397
+INFO:root:0.8
+INFO:root:step_counter 248
+INFO:root:similarity: -0.15388950339244123
+INFO:root:0.8
+INFO:root:step_counter 249
+INFO:root:similarity: -0.08835542433428312
+INFO:root:1.0
+INFO:root:step_counter 250
+INFO:root:similarity: -0.14447546465788008
+INFO:root:1.0
+INFO:root:step_counter 251
+INFO:root:similarity: -0.22046298640393813
+INFO:root:0.8
+INFO:root:step_counter 252
+INFO:root:similarity: -0.13713705508492136
+INFO:root:0.8
+INFO:root:step_counter 253
+INFO:root:similarity: -0.10242214936987648
+INFO:root:0.8
+INFO:root:step_counter 254
+INFO:root:similarity: -0.09358958518694727
+INFO:root:0.8
+INFO:root:step_counter 255
+INFO:root:similarity: -0.1639920507070517
+INFO:root:0.8
+INFO:root:step_counter 256
+INFO:root:similarity: -0.11077178658237763
+INFO:root:1.0
+INFO:root:step_counter 257
+INFO:root:similarity: -0.12079365452615742
+INFO:root:1.0
+INFO:root:step_counter 258
+INFO:root:similarity: -0.10567313950923174
+INFO:root:1.0
+INFO:root:step_counter 259
+INFO:root:similarity: -0.09298665342492363
+INFO:root:1.0
+INFO:root:step_counter 260
+INFO:root:similarity: -0.16770492169405038
+INFO:root:0.8
+INFO:root:step_counter 261
+INFO:root:similarity: -0.1466950936923076
+INFO:root:0.8
+INFO:root:step_counter 262
+INFO:root:similarity: -0.12832781778648128
+INFO:root:0.6
+INFO:root:step_counter 263
+INFO:root:similarity: -0.1609276279656381
+INFO:root:0.6
+INFO:root:step_counter 264
+INFO:root:similarity: -0.2461806394420153
+INFO:root:0.8
+INFO:root:step_counter 265
+INFO:root:similarity: -0.1501733739440987
+INFO:root:1.0
+INFO:root:step_counter 266
+INFO:root:similarity: -0.12471547930324534
+INFO:root:0.8
+INFO:root:step_counter 267
+INFO:root:similarity: -0.05079202979254238
+INFO:root:1.0
+INFO:root:step_counter 268
+INFO:root:similarity: -0.13589295342268481
+INFO:root:1.0
+INFO:root:step_counter 269
+INFO:root:similarity: -0.1424540678759405
+INFO:root:1.0
+INFO:root:step_counter 270
+INFO:root:similarity: -0.14250055474888412
+INFO:root:1.0
+INFO:root:step_counter 271
+INFO:root:similarity: -0.10959266095420694
+INFO:root:1.0
+INFO:root:step_counter 272
+INFO:root:similarity: -0.08964009810133067
+INFO:root:1.0
+INFO:root:step_counter 273
+INFO:root:similarity: -0.11241333748469062
+INFO:root:1.0
+INFO:root:step_counter 274
+INFO:root:similarity: -0.117235887011096
+INFO:root:0.8
+INFO:root:step_counter 275
+INFO:root:similarity: -0.0825101216715537
+INFO:root:1.0
+INFO:root:step_counter 276
+INFO:root:similarity: -0.14359963983686297
+INFO:root:1.0
+INFO:root:step_counter 277
+INFO:root:similarity: -0.1670190986453579
+INFO:root:0.8
+INFO:root:step_counter 278
+INFO:root:similarity: -0.14609430696301096
+INFO:root:1.0
+INFO:root:step_counter 279
+INFO:root:similarity: -0.13533823237699405
+INFO:root:1.0
+INFO:root:step_counter 280
+INFO:root:similarity: -0.1533814727232955
+INFO:root:1.0
+INFO:root:step_counter 281
+INFO:root:similarity: -0.11204517572729622
+INFO:root:1.0
+INFO:root:step_counter 282
+INFO:root:similarity: -0.12575048193909577
+INFO:root:1.0
+INFO:root:step_counter 283
+INFO:root:similarity: -0.17641475316595523
+INFO:root:0.6
+INFO:root:step_counter 284
+INFO:root:similarity: -0.20841146335992333
+INFO:root:1.0
+INFO:root:step_counter 285
+INFO:root:similarity: -0.14452656577645662
+INFO:root:1.0
+INFO:root:step_counter 286
+INFO:root:similarity: -0.12905930300434998
+INFO:root:0.8
+INFO:root:step_counter 287
+INFO:root:similarity: -0.1553016129708883
+INFO:root:0.8
+INFO:root:step_counter 288
+INFO:root:similarity: -0.16044005398706573
+INFO:root:0.8
+INFO:root:step_counter 289
+INFO:root:similarity: -0.1397865678393868
+INFO:root:0.8
+INFO:root:step_counter 290
+INFO:root:similarity: -0.11985746808097764
+INFO:root:1.0
+INFO:root:step_counter 291
+INFO:root:similarity: -0.17294552464693524
+INFO:root:0.6
+INFO:root:step_counter 292
+INFO:root:similarity: -0.10886527963912551
+INFO:root:0.8
+INFO:root:step_counter 293
+INFO:root:similarity: -0.15510639899135314
+INFO:root:0.8
+INFO:root:step_counter 294
+INFO:root:similarity: -0.21312907058817188
+INFO:root:0.8
+INFO:root:step_counter 295
+INFO:root:similarity: -0.14162399408445536
+INFO:root:0.8
+INFO:root:step_counter 296
+INFO:root:similarity: -0.11136655923021843
+INFO:root:1.0
+INFO:root:step_counter 297
+INFO:root:similarity: -0.182654589746171
+INFO:root:1.0
+INFO:root:step_counter 298
+INFO:root:similarity: -0.09894803723263623
+INFO:root:0.8
+INFO:root:step_counter 299
+INFO:root:similarity: -0.1337777661692683
+INFO:root:0.8
+INFO:root:step_counter 300
+INFO:root:similarity: -0.11545675251616772
+INFO:root:0.8
+INFO:root:step_counter 301
+INFO:root:similarity: -0.0711503734603508
+INFO:root:1.0
+INFO:root:step_counter 302
+INFO:root:similarity: -0.13479466345655333
+INFO:root:1.0
+INFO:root:step_counter 303
+INFO:root:similarity: -0.2214337190853659
+INFO:root:0.8
+INFO:root:step_counter 304
+INFO:root:similarity: -0.1324226831665295
+INFO:root:1.0
+INFO:root:step_counter 305
+INFO:root:similarity: -0.1983732162802121
+INFO:root:0.6
+INFO:root:step_counter 306
+INFO:root:similarity: -0.22614095884146368
+INFO:root:0.6
+INFO:root:step_counter 307
+INFO:root:similarity: -0.17676051988863806
+INFO:root:1.0
+INFO:root:step_counter 308
+INFO:root:similarity: -0.10663120194156994
+INFO:root:1.0
+INFO:root:step_counter 309
+INFO:root:similarity: -0.1136493722899603
+INFO:root:1.0
+INFO:root:step_counter 310
+INFO:root:similarity: -0.10816995771176396
+INFO:root:1.0
+INFO:root:step_counter 311
+INFO:root:similarity: -0.1501557721802278
+INFO:root:0.8
+INFO:root:step_counter 312
+INFO:root:similarity: -0.11467358864275157
+INFO:root:1.0
+INFO:root:step_counter 313
+INFO:root:similarity: -0.24010734025545177
+INFO:root:1.0
+INFO:root:step_counter 314
+INFO:root:similarity: -0.21520223623421164
+INFO:root:0.6
+INFO:root:step_counter 315
+INFO:root:similarity: -0.136616548023632
+INFO:root:1.0
+INFO:root:step_counter 316
+INFO:root:similarity: -0.161789386970296
+INFO:root:1.0
+INFO:root:step_counter 317
+INFO:root:similarity: -0.1143613435666212
+INFO:root:1.0
+INFO:root:step_counter 318
+INFO:root:similarity: -0.1807087853365935
+INFO:root:0.8
+INFO:root:step_counter 319
+INFO:root:similarity: -0.13846588078456978
+INFO:root:1.0
+INFO:root:step_counter 320
+INFO:root:similarity: -0.18040383567755625
+INFO:root:1.0
+INFO:root:step_counter 321
+INFO:root:similarity: -0.19266021296536728
+INFO:root:1.0
+INFO:root:step_counter 322
+INFO:root:similarity: -0.10212348089328172
+INFO:root:1.0
+INFO:root:step_counter 323
+INFO:root:similarity: -0.1961438536471567
+INFO:root:1.0
+INFO:root:step_counter 324
+INFO:root:similarity: -0.12137915764107521
+INFO:root:1.0
+INFO:root:step_counter 325
+INFO:root:similarity: -0.1390842454510669
+INFO:root:1.0
+INFO:root:step_counter 326
+INFO:root:similarity: -0.14759123260418006
+INFO:root:1.0
+INFO:root:step_counter 327
+INFO:root:similarity: -0.2070778818197906
+INFO:root:0.8
+INFO:root:step_counter 328
+INFO:root:similarity: -0.08441499181383905
+INFO:root:1.0
+INFO:root:step_counter 329
+INFO:root:similarity: -0.2782367584253824
+INFO:root:1.0
+INFO:root:step_counter 330
+INFO:root:similarity: -0.18089521285265397
+INFO:root:1.0
+INFO:root:step_counter 331
+INFO:root:similarity: -0.1814405763993865
+INFO:root:1.0
+INFO:root:step_counter 332
+INFO:root:similarity: -0.15553260958344794
+INFO:root:0.6
+INFO:root:step_counter 333
+INFO:root:similarity: -0.1781742184620494
+INFO:root:0.8
+INFO:root:step_counter 334
+INFO:root:similarity: -0.11555855092989831
+INFO:root:1.0
+INFO:root:step_counter 335
+INFO:root:similarity: -0.1325515623054856
+INFO:root:1.0
+INFO:root:step_counter 336
+INFO:root:similarity: -0.1314858197987705
+INFO:root:1.0
+INFO:root:step_counter 337
+INFO:root:similarity: -0.21622542796245792
+INFO:root:0.8
+INFO:root:step_counter 338
+INFO:root:similarity: -0.14275329498661316
+INFO:root:1.0
+INFO:root:step_counter 339
+INFO:root:similarity: -0.1881267227727823
+INFO:root:0.8
+INFO:root:step_counter 340
+INFO:root:similarity: -0.21835606128205132
+INFO:root:1.0
+INFO:root:step_counter 341
+INFO:root:similarity: -0.13770275744270988
+INFO:root:0.6
+INFO:root:step_counter 342
+INFO:root:similarity: -0.19829343238147745
+INFO:root:0.8
+INFO:root:step_counter 343
+INFO:root:similarity: -0.13682541868518028
+INFO:root:1.0
+INFO:root:step_counter 344
+INFO:root:similarity: -0.2190116448230074
+INFO:root:1.0
+INFO:root:step_counter 345
+INFO:root:similarity: -0.15311580933456448
+INFO:root:1.0
+INFO:root:step_counter 346
+INFO:root:similarity: -0.11382729506241518
+INFO:root:1.0
+INFO:root:step_counter 347
+INFO:root:similarity: -0.13406802022482756
+INFO:root:1.0
+INFO:root:step_counter 348
+INFO:root:similarity: -0.15585326174879843
+INFO:root:0.6
+INFO:root:step_counter 349
+INFO:root:similarity: -0.13383844772307896
+INFO:root:0.8
+INFO:root:step_counter 350
+INFO:root:similarity: -0.12763345331520926
+INFO:root:0.8
+INFO:root:step_counter 351
+INFO:root:similarity: -0.1606525948795836
+INFO:root:1.0
+INFO:root:step_counter 352
+INFO:root:similarity: -0.19387940661737424
+INFO:root:0.6
+INFO:root:step_counter 353
+INFO:root:similarity: -0.14895689673146606
+INFO:root:1.0
+INFO:root:step_counter 354
+INFO:root:similarity: -0.14435504297368984
+INFO:root:1.0
+INFO:root:step_counter 355
+INFO:root:similarity: -0.22042555091930738
+INFO:root:1.0
+INFO:root:step_counter 356
+INFO:root:similarity: -0.14099212183874088
+INFO:root:1.0
+INFO:root:step_counter 357
+INFO:root:similarity: -0.10886037097691947
+INFO:root:1.0
+INFO:root:step_counter 358
+INFO:root:similarity: -0.13798338282173295
+INFO:root:1.0
+INFO:root:step_counter 359
+INFO:root:similarity: -0.16409855027552556
+INFO:root:0.8
+INFO:root:step_counter 360
+INFO:root:similarity: -0.2087695667369005
+INFO:root:1.0
+INFO:root:step_counter 361
+INFO:root:similarity: -0.26891312692149316
+INFO:root:1.0
+INFO:root:step_counter 362
+INFO:root:similarity: -0.13561432553604547
+INFO:root:1.0
+INFO:root:step_counter 363
+INFO:root:similarity: -0.1290523494334741
+INFO:root:1.0
+INFO:root:step_counter 364
+INFO:root:similarity: -0.1065656193361223
+INFO:root:1.0
+INFO:root:step_counter 365
+INFO:root:similarity: -0.101811517970962
+INFO:root:1.0
+INFO:root:step_counter 366
+INFO:root:similarity: -0.08995075213510362
+INFO:root:1.0
+INFO:root:step_counter 367
+INFO:root:similarity: -0.17047142687135175
+INFO:root:1.0
+INFO:root:step_counter 368
+INFO:root:similarity: -0.19100746703896132
+INFO:root:1.0
+INFO:root:step_counter 369
+INFO:root:similarity: -0.16190935688664276
+INFO:root:1.0
+INFO:root:step_counter 370
+INFO:root:similarity: -0.1936309150066039
+INFO:root:0.8
+INFO:root:step_counter 371
+INFO:root:similarity: -0.15718699836346084
+INFO:root:0.6
+INFO:root:step_counter 372
+INFO:root:similarity: -0.13996641124707743
+INFO:root:0.6
+INFO:root:step_counter 373
+INFO:root:similarity: -0.1460910033903784
+INFO:root:1.0
+INFO:root:step_counter 374
+INFO:root:similarity: -0.0971344685553438
+INFO:root:1.0
+INFO:root:step_counter 375
+INFO:root:similarity: -0.10934267110342055
+INFO:root:0.8
+INFO:root:step_counter 376
+INFO:root:similarity: -0.16453803661291055
+INFO:root:0.8
+INFO:root:step_counter 377
+INFO:root:similarity: -0.16460215701534542
+INFO:root:0.8
+INFO:root:step_counter 378
+INFO:root:similarity: -0.14923871381495968
+INFO:root:0.8
+INFO:root:step_counter 379
+INFO:root:similarity: -0.2640841829402272
+INFO:root:1.0
+INFO:root:step_counter 380
+INFO:root:similarity: -0.12903620721430153
+INFO:root:0.8
+INFO:root:step_counter 381
+INFO:root:similarity: -0.21199305455113437
+INFO:root:1.0
+INFO:root:step_counter 382
+INFO:root:similarity: -0.2506549328740034
+INFO:root:1.0
+INFO:root:step_counter 383
+INFO:root:similarity: -0.20516862969513738
+INFO:root:1.0
+INFO:root:step_counter 384
+INFO:root:similarity: -0.1183421826919081
+INFO:root:1.0
+INFO:root:step_counter 385
+INFO:root:similarity: -0.10336193972720675
+INFO:root:0.6
+INFO:root:step_counter 386
+INFO:root:similarity: -0.1600676680966251
+INFO:root:0.8
+INFO:root:step_counter 387
+INFO:root:similarity: -0.16224373340514686
+INFO:root:0.8
+INFO:root:step_counter 388
+INFO:root:similarity: -0.17558382213583212
+INFO:root:1.0
+INFO:root:step_counter 389
+INFO:root:similarity: -0.1299434023078252
+INFO:root:1.0
+INFO:root:step_counter 390
+INFO:root:similarity: -0.1481992530241374
+INFO:root:0.8
+INFO:root:step_counter 391
+INFO:root:similarity: -0.13658883877857675
+INFO:root:0.8
+INFO:root:step_counter 392
+INFO:root:similarity: -0.16713434330381238
+INFO:root:0.8
+INFO:root:step_counter 393
+INFO:root:similarity: -0.16248514221449806
+INFO:root:0.8
+INFO:root:step_counter 394
+INFO:root:similarity: -0.14058678864751295
+INFO:root:1.0
+INFO:root:step_counter 395
+INFO:root:similarity: -0.18734428320052665
+INFO:root:0.6
+INFO:root:step_counter 396
+INFO:root:similarity: -0.21698345423449272
+INFO:root:1.0
+INFO:root:step_counter 397
+INFO:root:similarity: -0.16609731829167507
+INFO:root:0.8
+INFO:root:step_counter 398
+INFO:root:similarity: -0.17429134232706545
+INFO:root:0.6
+INFO:root:step_counter 399
+INFO:root:similarity: -0.18368386167015238
+INFO:root:0.8
+INFO:root:step_counter 400
+INFO:root:similarity: -0.190860890113961
+INFO:root:0.8
+INFO:root:step_counter 401
+INFO:root:similarity: -0.10334602530424775
+INFO:root:1.0
+INFO:root:step_counter 402
+INFO:root:similarity: -0.06262651486675919
+INFO:root:1.0
+INFO:root:step_counter 403
+INFO:root:similarity: -0.08038416927070913
+INFO:root:1.0
+INFO:root:step_counter 404
+INFO:root:similarity: -0.09866105031625616
+INFO:root:0.6
+INFO:root:step_counter 405
+INFO:root:similarity: -0.1693984421501401
+INFO:root:0.8
+INFO:root:step_counter 406
+INFO:root:similarity: -0.1491596993576303
+INFO:root:0.8
+INFO:root:step_counter 407
+INFO:root:similarity: -0.2417361543863945
+INFO:root:1.0
+INFO:root:step_counter 408
+INFO:root:similarity: -0.2702381093339179
+INFO:root:1.0
+INFO:root:step_counter 409
+INFO:root:similarity: -0.12129205229363249
+INFO:root:1.0
+INFO:root:step_counter 410
+INFO:root:similarity: -0.17734664153404867
+INFO:root:0.8
+INFO:root:step_counter 411
+INFO:root:similarity: -0.15276638332578274
+INFO:root:0.8
+INFO:root:step_counter 412
+INFO:root:similarity: -0.1298024261972961
+INFO:root:1.0
+INFO:root:step_counter 413
+INFO:root:similarity: -0.14713770643137558
+INFO:root:0.6
+INFO:root:step_counter 414
+INFO:root:similarity: -0.15447750793701953
+INFO:root:0.6
+INFO:root:step_counter 415
+INFO:root:similarity: -0.15572049572579627
+INFO:root:0.8
+INFO:root:step_counter 416
+INFO:root:similarity: -0.16045030808192362
+INFO:root:1.0
+INFO:root:step_counter 417
+INFO:root:similarity: -0.19714286140574022
+INFO:root:1.0
+INFO:root:step_counter 418
+INFO:root:similarity: -0.24711697147947487
+INFO:root:1.0
+INFO:root:step_counter 419
+INFO:root:similarity: -0.13104958717568105
+INFO:root:1.0
+INFO:root:step_counter 420
+INFO:root:similarity: -0.15908337918513415
+INFO:root:1.0
+INFO:root:step_counter 421
+INFO:root:similarity: -0.18057842766807486
+INFO:root:0.8
+INFO:root:step_counter 422
+INFO:root:similarity: -0.1638294154111244
+INFO:root:0.6
+INFO:root:step_counter 423
+INFO:root:similarity: -0.15920381512142823
+INFO:root:1.0
+INFO:root:step_counter 424
+INFO:root:similarity: -0.21092675995159582
+INFO:root:1.0
+INFO:root:step_counter 425
+INFO:root:similarity: -0.1223966494674612
+INFO:root:1.0
+INFO:root:step_counter 426
+INFO:root:similarity: -0.08621781784230309
+INFO:root:1.0
+INFO:root:step_counter 427
+INFO:root:similarity: -0.09509529052865973
+INFO:root:1.0
+INFO:root:step_counter 428
+INFO:root:similarity: -0.09398693552249993
+INFO:root:1.0
+INFO:root:step_counter 429
+INFO:root:similarity: -0.24968650561995898
+INFO:root:1.0
+INFO:root:step_counter 430
+INFO:root:similarity: -0.21085322808899554
+INFO:root:1.0
+INFO:root:step_counter 431
+INFO:root:similarity: -0.25745069340174065
+INFO:root:1.0
+INFO:root:step_counter 432
+INFO:root:similarity: -0.14428166000368647
+INFO:root:1.0
+INFO:root:step_counter 433
+INFO:root:similarity: -0.14453057957605464
+INFO:root:0.8
+INFO:root:step_counter 434
+INFO:root:similarity: -0.11387790971470091
+INFO:root:1.0
+INFO:root:step_counter 435
+INFO:root:similarity: -0.2248536938436464
+INFO:root:0.8
+INFO:root:step_counter 436
+INFO:root:similarity: -0.12901739161408388
+INFO:root:0.8
+INFO:root:step_counter 437
+INFO:root:similarity: -0.10875680000294008
+INFO:root:0.8
+INFO:root:step_counter 438
+INFO:root:similarity: -0.16538293657572478
+INFO:root:0.8
+INFO:root:step_counter 439
+INFO:root:similarity: -0.1247512635123984
+INFO:root:1.0
+INFO:root:step_counter 440
+INFO:root:similarity: -0.15081473133673684
+INFO:root:1.0
+INFO:root:step_counter 441
+INFO:root:similarity: -0.1281805286873513
+INFO:root:1.0
+INFO:root:step_counter 442
+INFO:root:similarity: -0.10172986698362618
+INFO:root:1.0
+INFO:root:step_counter 443
+INFO:root:similarity: -0.11282707105122247
+INFO:root:1.0
+INFO:root:step_counter 444
+INFO:root:similarity: -0.16548929813159063
+INFO:root:0.8
+INFO:root:step_counter 445
+INFO:root:similarity: -0.1459494251846516
+INFO:root:1.0
+INFO:root:step_counter 446
+INFO:root:similarity: -0.1500093308021554
+INFO:root:1.0
+INFO:root:step_counter 447
+INFO:root:similarity: -0.14631121793950896
+INFO:root:0.8
+INFO:root:step_counter 448
+INFO:root:similarity: -0.12222943658869911
+INFO:root:0.8
+INFO:root:step_counter 449
+INFO:root:similarity: -0.1965647998244081
+INFO:root:0.6
+INFO:root:step_counter 450
+INFO:root:similarity: -0.13369827199279305
+INFO:root:0.8
+INFO:root:step_counter 451
+INFO:root:similarity: -0.13653865582224423
+INFO:root:1.0
+INFO:root:step_counter 452
+INFO:root:similarity: -0.14256903742123872
+INFO:root:1.0
+INFO:root:step_counter 453
+INFO:root:similarity: -0.16342383315943232
+INFO:root:1.0
+INFO:root:step_counter 454
+INFO:root:similarity: -0.1671093790941791
+INFO:root:0.8
+INFO:root:step_counter 455
+INFO:root:similarity: -0.1360693211578018
+INFO:root:0.8
+INFO:root:step_counter 456
+INFO:root:similarity: -0.14898555995654994
+INFO:root:1.0
+INFO:root:step_counter 457
+INFO:root:similarity: -0.1133798326597294
+INFO:root:1.0
+INFO:root:step_counter 458
+INFO:root:similarity: -0.1305069916322108
+INFO:root:1.0
+INFO:root:step_counter 459
+INFO:root:similarity: -0.1216351865942239
+INFO:root:1.0
+INFO:root:step_counter 460
+INFO:root:similarity: -0.2388073301463075
+INFO:root:1.0
+INFO:root:step_counter 461
+INFO:root:similarity: -0.12175830546167887
+INFO:root:1.0
+INFO:root:step_counter 462
+INFO:root:similarity: -0.14510321866995335
+INFO:root:1.0
+INFO:root:step_counter 463
+INFO:root:similarity: -0.1244020292414878
+INFO:root:0.8
+INFO:root:step_counter 464
+INFO:root:similarity: -0.20324966935673094
+INFO:root:1.0
+INFO:root:step_counter 465
+INFO:root:similarity: -0.21275106130420707
+INFO:root:1.0
+INFO:root:step_counter 466
+INFO:root:similarity: -0.12338461212982677
+INFO:root:0.6
+INFO:root:step_counter 467
+INFO:root:similarity: -0.20501211271568376
+INFO:root:0.8
+INFO:root:step_counter 468
+INFO:root:similarity: -0.1205901724018924
+INFO:root:1.0
+INFO:root:step_counter 469
+INFO:root:similarity: -0.17738274191984815
+INFO:root:0.8
+INFO:root:step_counter 470
+INFO:root:similarity: -0.15551870791698097
+INFO:root:0.8
+INFO:root:step_counter 471
+INFO:root:similarity: -0.189300647972116
+INFO:root:0.8
+INFO:root:step_counter 472
+INFO:root:similarity: -0.11835385477883253
+INFO:root:0.8
+INFO:root:step_counter 473
+INFO:root:similarity: -0.2068752020732485
+INFO:root:0.8
+INFO:root:step_counter 474
+INFO:root:similarity: -0.11960357557947598
+INFO:root:1.0
+INFO:root:step_counter 475
+INFO:root:similarity: -0.1566342333943569
+INFO:root:0.6
+INFO:root:step_counter 476
+INFO:root:similarity: -0.23861450059289935
+INFO:root:0.6
+INFO:root:step_counter 477
+INFO:root:similarity: -0.08925137121859816
+INFO:root:1.0
+INFO:root:step_counter 478
+INFO:root:similarity: -0.12014706551618559
+INFO:root:0.8
+INFO:root:step_counter 479
+INFO:root:similarity: -0.12202500816049988
+INFO:root:0.8
+INFO:root:step_counter 480
+INFO:root:similarity: -0.14567964959516744
+INFO:root:1.0
+INFO:root:step_counter 481
+INFO:root:similarity: -0.1047454638168589
+INFO:root:1.0
+INFO:root:step_counter 482
+INFO:root:similarity: -0.22147857999560672
+INFO:root:0.8
+INFO:root:step_counter 483
+INFO:root:similarity: -0.1310430512309333
+INFO:root:1.0
+INFO:root:step_counter 484
+INFO:root:similarity: -0.14740788408972905
+INFO:root:1.0
+INFO:root:step_counter 485
+INFO:root:similarity: -0.11516176293497538
+INFO:root:1.0
+INFO:root:step_counter 486
+INFO:root:similarity: -0.1595701332394064
+INFO:root:1.0
+INFO:root:step_counter 487
+INFO:root:similarity: -0.1453683964551279
+INFO:root:0.8
+INFO:root:step_counter 488
+INFO:root:similarity: -0.1486841715108571
+INFO:root:0.6
+INFO:root:step_counter 489
+INFO:root:similarity: -0.16709863797962032
+INFO:root:0.8
+INFO:root:step_counter 490
+INFO:root:similarity: -0.1449411062831354
+INFO:root:1.0
+INFO:root:step_counter 491
+INFO:root:similarity: -0.1711472359879238
+INFO:root:1.0
+INFO:root:step_counter 492
+INFO:root:similarity: -0.11828996354695542
+INFO:root:1.0
+INFO:root:step_counter 493
+INFO:root:similarity: -0.14345100555100865
+INFO:root:0.6
+INFO:root:step_counter 494

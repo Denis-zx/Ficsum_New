@@ -1,0 +1,381 @@
+INFO:root:overlap = 0.2
+INFO:root:number of X_parameter = 152
+INFO:root:number of run = 250
+INFO:root:step_counter 0
+INFO:root:step_counter 1
+INFO:root:similarity: -0.10525597316543689
+INFO:root:1.0
+INFO:root:step_counter 2
+INFO:root:similarity: -0.28630878807835014
+INFO:root:0.8
+INFO:root:step_counter 3
+INFO:root:similarity: -0.1268136125839796
+INFO:root:0.8
+INFO:root:step_counter 4
+INFO:root:similarity: -0.17899492144999396
+INFO:root:0.8
+INFO:root:step_counter 5
+INFO:root:similarity: -0.07451276439657673
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 6
+INFO:root:similarity: -0.055400670887747805
+INFO:root:0.6
+INFO:root:step_counter 7
+INFO:root:similarity: -0.07381259458081879
+INFO:root:0.6
+INFO:root:step_counter 8
+INFO:root:similarity: -0.10335652072917223
+INFO:root:0.8
+INFO:root:step_counter 9
+INFO:root:similarity: -0.1510819442693122
+INFO:root:0.8
+INFO:root:step_counter 10
+INFO:root:similarity: -0.06233425051958663
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 11
+INFO:root:similarity: -0.05886392766551052
+INFO:root:0.6
+INFO:root:step_counter 12
+INFO:root:similarity: -0.18618542004046557
+INFO:root:1.0
+INFO:root:step_counter 13
+INFO:root:similarity: -0.11647052128438418
+INFO:root:0.6
+INFO:root:step_counter 14
+INFO:root:similarity: -0.08086335206097028
+INFO:root:0.6
+INFO:root:step_counter 15
+INFO:root:similarity: -0.13672888923912507
+INFO:root:0.8
+INFO:root:step_counter 16
+INFO:root:similarity: -0.09867899590849849
+INFO:root:0.8
+INFO:root:step_counter 17
+INFO:root:similarity: -0.07936016961773862
+INFO:root:1.0
+INFO:root:step_counter 18
+INFO:root:similarity: -0.14448633729142313
+INFO:root:0.8
+INFO:root:step_counter 19
+INFO:root:similarity: -0.11146497948562972
+INFO:root:0.8
+INFO:root:step_counter 20
+INFO:root:similarity: -0.1357813336252931
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 21
+INFO:root:similarity: -0.08002806800521467
+INFO:root:1.0
+INFO:root:step_counter 22
+INFO:root:similarity: -0.08926366098908822
+INFO:root:1.0
+INFO:root:step_counter 23
+INFO:root:similarity: -0.11363073541632707
+INFO:root:0.8
+INFO:root:step_counter 24
+INFO:root:similarity: -0.09291004677351944
+INFO:root:0.8
+INFO:root:step_counter 25
+INFO:root:similarity: -0.10508332677456556
+INFO:root:0.6
+INFO:root:step_counter 26
+INFO:root:similarity: -0.15978135135804838
+INFO:root:0.8
+INFO:root:step_counter 27
+INFO:root:similarity: -0.07905382366238434
+INFO:root:0.6
+INFO:root:step_counter 28
+INFO:root:similarity: -0.09308347431976494
+INFO:root:0.8
+INFO:root:step_counter 29
+INFO:root:similarity: -0.09222423541233427
+INFO:root:1.0
+INFO:root:step_counter 30
+INFO:root:similarity: -0.11607889497556356
+INFO:root:0.6
+INFO:root:step_counter 31
+INFO:root:similarity: -0.11768018349199794
+INFO:root:0.8
+INFO:root:step_counter 32
+INFO:root:similarity: -0.08198436111485585
+INFO:root:0.6
+INFO:root:step_counter 33
+INFO:root:similarity: -0.14268126495147637
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 34
+INFO:root:similarity: -0.1341615029694646
+INFO:root:0.6
+INFO:root:step_counter 35
+INFO:root:similarity: -0.14635335358183799
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 36
+INFO:root:similarity: -0.13493344218172065
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.2
+INFO:root:step_counter 37
+INFO:root:similarity: -0.15801882759942976
+INFO:root:0.8
+INFO:root:step_counter 38
+INFO:root:similarity: -0.06383307144622563
+INFO:root:1.0
+INFO:root:step_counter 39
+INFO:root:similarity: -0.14335512280188412
+INFO:root:0.6
+INFO:root:step_counter 40
+INFO:root:similarity: -0.06285664276712388
+INFO:root:0.6
+INFO:root:step_counter 41
+INFO:root:similarity: -0.1124907737942098
+INFO:root:0.6
+INFO:root:step_counter 42
+INFO:root:similarity: -0.11121663236931723
+INFO:root:0.8
+INFO:root:step_counter 43
+INFO:root:similarity: -0.09732389521008744
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 44
+INFO:root:similarity: -0.09525561580242459
+INFO:root:0.8
+INFO:root:step_counter 45
+INFO:root:similarity: -0.13792517528531067
+INFO:root:0.8
+INFO:root:step_counter 46
+INFO:root:similarity: -0.11781537336804182
+INFO:root:0.6
+INFO:root:step_counter 47
+INFO:root:similarity: -0.15542058451483753
+INFO:root:1.0
+INFO:root:step_counter 48
+INFO:root:similarity: -0.10632319443177818
+INFO:root:0.8
+INFO:root:step_counter 49
+INFO:root:similarity: -0.1043309149137247
+INFO:root:0.6
+INFO:root:step_counter 50
+INFO:root:similarity: -0.1266134146162916
+INFO:root:0.8
+INFO:root:step_counter 51
+INFO:root:similarity: -0.1090574684297092
+INFO:root:1.0
+INFO:root:step_counter 52
+INFO:root:similarity: -0.13815236676275078
+INFO:root:0.8
+INFO:root:step_counter 53
+INFO:root:similarity: -0.18941998959732276
+INFO:root:0.8
+INFO:root:step_counter 54
+INFO:root:similarity: -0.11141175565792993
+INFO:root:0.8
+INFO:root:step_counter 55
+INFO:root:similarity: -0.12502090129195498
+INFO:root:0.8
+INFO:root:step_counter 56
+INFO:root:similarity: -0.08088337270899615
+INFO:root:0.8
+INFO:root:step_counter 57
+INFO:root:similarity: -0.10930465793151423
+INFO:root:1.0
+INFO:root:step_counter 58
+INFO:root:similarity: -0.1321934914571382
+INFO:root:0.8
+INFO:root:step_counter 59
+INFO:root:similarity: -0.09901922368745641
+INFO:root:0.6
+INFO:root:step_counter 60
+INFO:root:similarity: -0.10550082752800383
+INFO:root:0.8
+INFO:root:step_counter 61
+INFO:root:similarity: -0.10264262150144055
+INFO:root:0.8
+INFO:root:step_counter 62
+INFO:root:similarity: -0.11672215149753007
+INFO:root:0.8
+INFO:root:step_counter 63
+INFO:root:similarity: -0.11093164364510077
+INFO:root:0.8
+INFO:root:step_counter 64
+INFO:root:similarity: -0.15322004734784767
+INFO:root:1.0
+INFO:root:step_counter 65
+INFO:root:similarity: -0.10195603660300523
+INFO:root:0.6
+INFO:root:step_counter 66
+INFO:root:similarity: -0.10336340833377422
+INFO:root:0.8
+INFO:root:step_counter 67
+INFO:root:similarity: -0.10452036561569067
+INFO:root:0.8
+INFO:root:step_counter 68
+INFO:root:similarity: -0.09469744976548478
+INFO:root:1.0
+INFO:root:step_counter 69
+INFO:root:similarity: -0.10821330467630119
+INFO:root:1.0
+INFO:root:step_counter 70
+INFO:root:similarity: -0.09308016384975004
+INFO:root:1.0
+INFO:root:step_counter 71
+INFO:root:similarity: -0.11469358296199728
+INFO:root:0.8
+INFO:root:step_counter 72
+INFO:root:similarity: -0.10900341503180577
+INFO:root:0.6
+INFO:root:step_counter 73
+INFO:root:similarity: -0.0928943207957269
+INFO:root:1.0
+INFO:root:step_counter 74
+INFO:root:similarity: -0.1496983753058222
+INFO:root:0.6
+INFO:root:step_counter 75
+INFO:root:similarity: -0.15079608909094044
+INFO:root:0.6
+INFO:root:step_counter 76
+INFO:root:similarity: -0.04976190324818508
+INFO:root:0.8
+INFO:root:step_counter 77
+INFO:root:similarity: -0.11630551342818407
+INFO:root:1.0
+INFO:root:step_counter 78
+INFO:root:similarity: -0.09610960538226976
+INFO:root:0.8
+INFO:root:step_counter 79
+INFO:root:similarity: -0.09376250504064498
+INFO:root:0.6
+INFO:root:step_counter 80
+INFO:root:similarity: -0.06781291869968264
+INFO:root:0.8
+INFO:root:step_counter 81
+INFO:root:similarity: -0.09868413770394657
+INFO:root:0.6
+INFO:root:step_counter 82
+INFO:root:similarity: -0.08563868898930138
+INFO:root:0.8
+INFO:root:step_counter 83
+INFO:root:similarity: -0.099786117051188
+INFO:root:0.8
+INFO:root:step_counter 84
+INFO:root:similarity: -0.13972852542266845
+INFO:root:1.0
+INFO:root:step_counter 85
+INFO:root:similarity: -0.1347552119760843
+INFO:root:1.0
+INFO:root:step_counter 86
+INFO:root:similarity: -0.12360327721153475
+INFO:root:0.6
+INFO:root:step_counter 87
+INFO:root:similarity: -0.10163144145623582
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 88
+INFO:root:similarity: -0.07088628587374357
+INFO:root:0.6
+INFO:root:step_counter 89
+INFO:root:similarity: -0.08781910141924532
+INFO:root:0.8
+INFO:root:step_counter 90
+INFO:root:similarity: -0.10732144150195788
+INFO:root:0.6
+INFO:root:step_counter 91
+INFO:root:similarity: -0.09859834134618572
+INFO:root:0.6
+INFO:root:step_counter 92
+INFO:root:similarity: -0.07514797807290086
+INFO:root:0.6
+INFO:root:step_counter 93
+INFO:root:similarity: -0.1340317809582936
+INFO:root:0.6
+INFO:root:step_counter 94
+INFO:root:similarity: -0.11490213791080128
+INFO:root:0.8
+INFO:root:step_counter 95
+INFO:root:similarity: -0.05788917275733063
+INFO:root:0.6
+INFO:root:step_counter 96
+INFO:root:similarity: -0.09139307452738377
+INFO:root:0.8
+INFO:root:step_counter 97
+INFO:root:similarity: -0.13221708541848354
+INFO:root:0.8
+INFO:root:step_counter 98
+INFO:root:similarity: -0.07357416250611781
+INFO:root:0.6
+INFO:root:step_counter 99
+INFO:root:similarity: -0.06544435354505729
+INFO:root:0.6
+INFO:root:step_counter 100
+INFO:root:similarity: -0.07670329378413121
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 101
+INFO:root:similarity: -0.11468171329710919
+INFO:root:0.8
+INFO:root:step_counter 102
+INFO:root:similarity: -0.11069027899378447
+INFO:root:0.8
+INFO:root:step_counter 103
+INFO:root:similarity: -0.06644772040833213
+INFO:root:0.6
+INFO:root:step_counter 104
+INFO:root:similarity: -0.17308442689271453
+INFO:root:1.0
+INFO:root:step_counter 105
+INFO:root:similarity: -0.09605557235798323
+INFO:root:1.0
+INFO:root:step_counter 106
+INFO:root:similarity: -0.0927636639162498
+INFO:root:0.8
+INFO:root:step_counter 107
+INFO:root:similarity: -0.17183411872632914
+INFO:root:cur_classifier_idx = 1, similarity list [-0.10525597316543689, -0.28630878807835014, -0.1268136125839796]
+INFO:root:0.4
+INFO:root:step_counter 108
+INFO:root:similarity: -0.11466804145120635
+INFO:root:1.0
+INFO:root:step_counter 109
+INFO:root:similarity: -0.09750200167603973
+INFO:root:0.6
+INFO:root:step_counter 110
+INFO:root:similarity: -0.08300623765132364
+INFO:root:0.6
+INFO:root:step_counter 111
+INFO:root:similarity: -0.15503849750544108
+INFO:root:0.8
+INFO:root:step_counter 112
+INFO:root:similarity: -0.10445908390274372
+INFO:root:0.6
+INFO:root:step_counter 113
+INFO:root:similarity: -0.17224938612154006
+INFO:root:0.8
+INFO:root:step_counter 114
+INFO:root:similarity: -0.05394152404725394
+INFO:root:0.8
+INFO:root:step_counter 115
+INFO:root:similarity: -0.09832567354997201
+INFO:root:0.8
+INFO:root:step_counter 116
+INFO:root:similarity: -0.155855584031095
+INFO:root:0.8
+INFO:root:step_counter 117
+INFO:root:similarity: -0.09939548556278455
+INFO:root:0.8
+INFO:root:step_counter 118
+INFO:root:similarity: -0.15774306215307177
+INFO:root:0.8
+INFO:root:step_counter 119
+INFO:root:similarity: -0.1629722684765601
+INFO:root:0.8
+INFO:root:step_counter 120
+INFO:root:similarity: -0.0857967918406205
+INFO:root:0.6
+INFO:root:step_counter 121
+INFO:root:similarity: -0.09504135335611041
+INFO:root:0.8
+INFO:root:step_counter 122
+INFO:root:similarity: -0.10091794133600396
+INFO:root:0.6
+INFO:root:step_counter 123
