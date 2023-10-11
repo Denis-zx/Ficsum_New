@@ -11,7 +11,7 @@ def get_weight_sd(standard_deviations):
     '''
     Return type list()
     '''
-    weight = [0.01/max(sd,0.1) for sd in standard_deviations]
+    weight = [0.01/max(sd,1) for sd in standard_deviations]
     return weight
 
 def get_weight_sd_per_mi(classifier,sources,feature):

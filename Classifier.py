@@ -1,17 +1,22 @@
 import numpy as np
+from pathlib import Path
 from sklearn.linear_model import RidgeClassifierCV
-
 from minirocket import fit, transform
 from generate_fingerprint import fingerprint_generator,flaten_fingerprint
 from calculate_similarity import get_cosine_distance
 from calculate_weight_2 import *
+from tsai.basics import *
+from tsai.models.MINIROCKET_Pytorch import *
+from tsai.models.utils import *
+import torch
 
 # Fingerprint features ['IMF',"mean","stdev","skew",'kurtosis','turning_point_rate','acf','pacf','MI','FI']
 
 class Classifier:
     
-    def __init__(self,current_datastream):
+    def __init__(self,current_datastream,index,max_sim_factor=2,min_sim_factor=2):
         #Definition Headers
+        self.index = index
         self.classifier = None
         self.cur_fingerprint = None
         self.fingerprint_pool = []
@@ -20,6 +25,8 @@ class Classifier:
         self.fingerprint_pool_sd = None
         self.weight_sd = None
 
+        self.max_similarity_scaling_factor = max_sim_factor
+        self.min_similarity_scaling_factor = min_sim_factor
         self.max_similarity = None
         self.allowed_similarity = None
         self.similarity_list = []
@@ -27,15 +34,31 @@ class Classifier:
         #TODO: Testing need:
         self.accuracy_rate = []
 
-        #Adjust data to minirocket form
-        X_transform,Y_datastream = self.get_adjust_XY(current_datastream=current_datastream)
-        
-        #Train classifier
-        self.classifier = RidgeClassifierCV(alphas = np.logspace(-3, 3, 10), normalize = True)
-        self.classifier.fit(X_transform, Y_datastream)
+        #Adjust data to minirocket form CPU
+        #X_transform,Y_datastream = self.get_adjust_XY(current_datastream=current_datastream)
+        #Adjust data to minirocket form GPU
+        X_transform,Y_datastream = self.get_adjust_XY_GPU(current_datastream=current_datastream)
 
+        #Train classifier CPU
+        #self.classifier = RidgeClassifierCV(alphas = np.logspace(-3, 3, 10), normalize = True)
+        #self.classifier.fit(X_transform, Y_datastream)
+        
+        #Train classifier GPU
+        # Using tsai/fastai, create DataLoaders for the features in X_feat.
+        tfms = [None, TSClassification()]
+        batch_tfms = TSStandardize(by_sample=True)
+        dls = get_ts_dls(X_transform, Y_datastream, tfms=tfms, batch_tfms=batch_tfms)
+        self.classifier = build_ts_model(MiniRocketHead, dls=dls)
+        
+        learn = Learner(dls, self.classifier, metrics=accuracy, cbs=ShowGraph())
+        learn.lr_find()
+        PATH = Path(f'./models/MRL_{self.index}.pkl')
+        PATH.parent.mkdir(parents=True, exist_ok=True)
+        learn.export(PATH)
+        
         #Generate First Fingureprint
-        self.predict(current_datastream)
+        #self.predict(current_datastream)
+        self.predict_GPU(current_datastream)
         self.cur_fingerprint = self.get_fingerprint(current_datastream)
         self.fingerprint_pool.append(self.cur_fingerprint)
         self.flaten_fingerprint_pool.append(flaten_fingerprint(self.cur_fingerprint))
@@ -53,12 +76,26 @@ class Classifier:
         return f"similarity list {self.similarity_list}\n weight {self.weight_sd}\n fingerprint {self.cur_fingerprint}\n "
 
     def get_adjust_XY(self,current_datastream):
-        #Adjust data to minirocket form
+
         Y_datastream = current_datastream["Y"].to_numpy(dtype = "float32")
         X_datastream = current_datastream.drop("Y", axis=1).to_numpy(dtype = "float32")
         parameters = fit(X_datastream)
         X_transform = transform(X_datastream, parameters)
 
+        return X_transform,Y_datastream
+
+    def get_adjust_XY_GPU(self,current_datastream):
+        #Adjust data to minirocket form
+        print(current_datastream.shape[0], current_datastream.shape[1]-1)
+        mrf = MiniRocketFeatures(current_datastream.shape[0], current_datastream.shape[1]-1).to(default_device())
+        PATH = Path("./models/MRF.pt")
+        mrf.load_state_dict(torch.load(PATH))   
+        
+        Y_datastream = current_datastream["Y"].to_numpy(dtype = "float32")
+        X_datastream = current_datastream.drop("Y", axis=1).to_numpy(dtype = "float32")
+
+        parameters = mrf.fit(X_datastream)
+        X_transform = get_minirocket_features(X_datastream, mrf, chunksize=1024, to_np=True)
         return X_transform,Y_datastream
 
     def predict(self,current_datastream):
@@ -68,6 +105,14 @@ class Classifier:
         current_datastream["predict_Y"] = predict_Y
         current_datastream["predict_corr"] = current_datastream.apply(lambda x:1 if x["Y"] == x["predict_Y"] else 0,axis = 1)
       
+    def predict_GPU (self,current_datastream):
+        X_transform,Y_datastream =self.get_adjust_XY_GPU(current_datastream=current_datastream)
+        PATH = Path(f'./models/MRL_{self.index}.pkl')
+        learn = load_learner(PATH, cpu=False)
+        probas, _, predict_Y = learn.get_X_preds(X_transform)
+        current_datastream["predict_Y"] = predict_Y
+        current_datastream["predict_corr"] = current_datastream.apply(lambda x:1 if x["Y"] == x["predict_Y"] else 0,axis = 1)
+
     def get_fingerprint(self,current_datastream):
         return fingerprint_generator(expredicted_datastream=current_datastream)
 
@@ -130,6 +175,6 @@ class Classifier:
 
             #Update similarity
             self.similarity_list.append(new_similarity)
-            self.max_similarity = new_similarity + 1.5*np.std(self.similarity_list)
+            self.max_similarity = new_similarity + self.max_similarity_scaling_factor*np.std(self.similarity_list)
             if len(self.similarity_list) >= 2:
-                self.allowed_similarity = np.mean(self.similarity_list) - 2*np.std(self.similarity_list)
+                self.allowed_similarity = np.mean(self.similarity_list) - self.min_similarity_scaling_factor*np.std(self.similarity_list)

@@ -1,0 +1,210 @@
+INFO:root:lenth = 5, overlap = 0.6, max_sim_factor = 1.5, min_sim_factor = 2
+INFO:root:number of X_parameter = 426
+INFO:root:number of run = 149
+INFO:root:step_counter 0
+INFO:root:step_counter 1
+INFO:root:Classifier: 1, Accuracy: 0.8, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 1, similarity: -0.16854732100261138, state_similarity: 3
+INFO:root:step_counter 2
+INFO:root:Classifier: 1, Accuracy: 0.8, similarity_list = similarity list [-0.16854732100261138]
+INFO:root:Type1 - use current classifier 1, similarity: -0.22286575735044878, state_similarity: 3
+INFO:root:step_counter 3
+INFO:root:Classifier: 1, Accuracy: 0.6, similarity_list = similarity list [-0.16854732100261138, -0.22286575735044878]
+INFO:root:Type1 - use current classifier 1, similarity: -0.23017691866393397, state_similarity: 1
+INFO:root:step_counter 4
+INFO:root:Classifier: 1, Accuracy: 0.4, similarity_list = similarity list [-0.16854732100261138, -0.22286575735044878]
+INFO:root:Type1 - use current classifier 1, similarity: -0.15418383378582712, state_similarity: 2
+INFO:root:step_counter 5
+INFO:root:Classifier: 1, Accuracy: 0.8, similarity_list = similarity list [-0.16854732100261138, -0.22286575735044878, -0.15418383378582712]
+INFO:root:Type1 - use current classifier 1, similarity: -0.1727530047490511, state_similarity: 1
+INFO:root:step_counter 6
+INFO:root:Classifier: 1, Accuracy: 0.8, similarity_list = similarity list [-0.16854732100261138, -0.22286575735044878, -0.15418383378582712]
+INFO:root:Classifier: 1, Accuracy: 0.8, similarity_list = similarity list [-0.16854732100261138, -0.22286575735044878, -0.15418383378582712]
+INFO:root:Type3 -new classifier generate
+INFO:root:step_counter 7
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 2, similarity: -0.14430388779590586, state_similarity: 3
+INFO:root:step_counter 8
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586]
+INFO:root:Type1 - use current classifier 2, similarity: -0.3220758698676601, state_similarity: 3
+INFO:root:step_counter 9
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.29739351350215115, state_similarity: 1
+INFO:root:step_counter 10
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2897182454249082, state_similarity: 1
+INFO:root:step_counter 11
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.23849495126385456, state_similarity: 1
+INFO:root:step_counter 12
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2661120482625794, state_similarity: 1
+INFO:root:step_counter 13
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.253349751629553, state_similarity: 1
+INFO:root:step_counter 14
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.19188561395457948, state_similarity: 1
+INFO:root:step_counter 15
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.1892940617192056, state_similarity: 1
+INFO:root:step_counter 16
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601]
+INFO:root:Type1 - use current classifier 2, similarity: -0.1139202371009872, state_similarity: 2
+INFO:root:step_counter 17
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.20713384538783097, state_similarity: 1
+INFO:root:step_counter 18
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.18677341001210557, state_similarity: 1
+INFO:root:step_counter 19
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.24920929353475796, state_similarity: 1
+INFO:root:step_counter 20
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.23974369477641777, state_similarity: 1
+INFO:root:step_counter 21
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.23604746524705555, state_similarity: 1
+INFO:root:step_counter 22
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2891667617582848, state_similarity: 1
+INFO:root:step_counter 23
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2490313492636269, state_similarity: 1
+INFO:root:step_counter 24
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2799642146508572, state_similarity: 1
+INFO:root:step_counter 25
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.22709535673609604, state_similarity: 1
+INFO:root:step_counter 26
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2218305025701024, state_similarity: 1
+INFO:root:step_counter 27
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.22066948792446284, state_similarity: 1
+INFO:root:step_counter 28
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2929450932544385, state_similarity: 1
+INFO:root:step_counter 29
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.24620192425193888, state_similarity: 1
+INFO:root:step_counter 30
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.27894092237890333, state_similarity: 1
+INFO:root:step_counter 31
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2457031255243013, state_similarity: 1
+INFO:root:step_counter 32
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.27717458794253036, state_similarity: 1
+INFO:root:step_counter 33
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.28283028513832387, state_similarity: 1
+INFO:root:step_counter 34
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.26895470709863634, state_similarity: 1
+INFO:root:step_counter 35
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.21135523557016067, state_similarity: 1
+INFO:root:step_counter 36
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.23856646719384156, state_similarity: 1
+INFO:root:step_counter 37
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2467755987134218, state_similarity: 1
+INFO:root:step_counter 38
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.24741853777702805, state_similarity: 1
+INFO:root:step_counter 39
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2596355975218384, state_similarity: 1
+INFO:root:step_counter 40
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.23045702448116456, state_similarity: 1
+INFO:root:step_counter 41
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2255822869667915, state_similarity: 1
+INFO:root:step_counter 42
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.25538340811862004, state_similarity: 1
+INFO:root:step_counter 43
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.25592085733554004, state_similarity: 1
+INFO:root:step_counter 44
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.31045582676508376, state_similarity: 1
+INFO:root:step_counter 45
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.30369455731491424, state_similarity: 1
+INFO:root:step_counter 46
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.20734693351267797, state_similarity: 1
+INFO:root:step_counter 47
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.20032803754574902, state_similarity: 1
+INFO:root:step_counter 48
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.24003863409418735, state_similarity: 1
+INFO:root:step_counter 49
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.22043309670782574, state_similarity: 1
+INFO:root:step_counter 50
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.19764025671749508, state_similarity: 1
+INFO:root:step_counter 51
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.19582168285571233, state_similarity: 1
+INFO:root:step_counter 52
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.27888190604558627, state_similarity: 1
+INFO:root:step_counter 53
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2356082802414038, state_similarity: 1
+INFO:root:step_counter 54
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.1846423225734053, state_similarity: 1
+INFO:root:step_counter 55
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.1743445865832629, state_similarity: 1
+INFO:root:step_counter 56
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.25484112026611994, state_similarity: 1
+INFO:root:step_counter 57
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.25838566255089046, state_similarity: 1
+INFO:root:step_counter 58
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2223715876213631, state_similarity: 1
+INFO:root:step_counter 59
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2310458074905194, state_similarity: 1
+INFO:root:step_counter 60
+INFO:root:Classifier: 2, Accuracy: 0.8, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.14010127154879393, state_similarity: 1
+INFO:root:step_counter 61
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2856396000086696, state_similarity: 1
+INFO:root:step_counter 62
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.29627625541726155, state_similarity: 1
+INFO:root:step_counter 63
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.31193136008040034, state_similarity: 1
+INFO:root:step_counter 64
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.26593017447029854, state_similarity: 1
+INFO:root:step_counter 65
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.2359291198727601, state_similarity: 1
+INFO:root:step_counter 66
+INFO:root:Classifier: 2, Accuracy: 0.2, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.19299390631086188, state_similarity: 1
+INFO:root:step_counter 67
+INFO:root:Classifier: 2, Accuracy: 0.4, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.22649789071948345, state_similarity: 1
+INFO:root:step_counter 68
+INFO:root:Classifier: 2, Accuracy: 0.6, similarity_list = similarity list [-0.14430388779590586, -0.3220758698676601, -0.1139202371009872]
+INFO:root:Type1 - use current classifier 2, similarity: -0.20854247147996496, state_similarity: 1
+INFO:root:step_counter 69
