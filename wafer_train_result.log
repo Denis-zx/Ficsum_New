@@ -1,0 +1,270 @@
+INFO:root:lenth = 30, overlap = 0.6, max_sim_factor = 1.5, min_sim_factor = 1
+INFO:root:number of X_parameter = 152
+INFO:root:number of run = 82
+INFO:root:step_counter 0, cur_idx = 0 - 29
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:step_counter 1, cur_idx = 12 - 41
+INFO:root:Classifier: 1, Accuracy: 0.26666666666666666, simiarity = -0.21905107279561442, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 1, state_similarity: 3
+INFO:root:step_counter 2, cur_idx = 24 - 53
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.26666666666666666, simiarity = -0.09152104395743166, similarity_list = similarity list [-0.21905107279561442]
+INFO:root:Type1 - use current classifier 1, state_similarity: 3
+INFO:root:step_counter 3, cur_idx = 36 - 65
+INFO:root:Classifier: 1, Accuracy: 0.23333333333333334, simiarity = -0.07589755737093518, similarity_list = similarity list [-0.21905107279561442, -0.09152104395743166]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+INFO:root:step_counter 4, cur_idx = 48 - 77
+INFO:root:Classifier: 1, Accuracy: 0.2, simiarity = -0.07325429005978845, similarity_list = similarity list [-0.21905107279561442, -0.09152104395743166]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+INFO:root:step_counter 5, cur_idx = 60 - 89
+INFO:root:Classifier: 1, Accuracy: 0.26666666666666666, simiarity = -0.10545490770099541, similarity_list = similarity list [-0.21905107279561442, -0.09152104395743166]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+INFO:root:step_counter 6, cur_idx = 72 - 101
+INFO:root:Classifier: 1, Accuracy: 0.26666666666666666, simiarity = -0.43667993613231515, similarity_list = similarity list [-0.21905107279561442, -0.09152104395743166]
+INFO:root:Classifier: 1, Accuracy: 0.26666666666666666, similarity: -0.43667993613231515, similarity_list = similarity list [-0.21905107279561442, -0.09152104395743166]
+INFO:root:Type3 -new classifier generate
+INFO:root:step_counter 7, cur_idx = 84 - 113
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.42703376541573435, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 2, state_similarity: 3
+INFO:root:step_counter 8, cur_idx = 96 - 125
+INFO:root:Classifier: 2, Accuracy: 0.8, simiarity = -0.28629760545646377, similarity_list = similarity list [-0.42703376541573435]
+INFO:root:Type1 - use current classifier 2, state_similarity: 3
+INFO:root:step_counter 9, cur_idx = 108 - 137
+INFO:root:Classifier: 2, Accuracy: 0.8, simiarity = -0.18941450276393335, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377]
+INFO:root:Type1 - use current classifier 2, state_similarity: 2
+INFO:root:step_counter 10, cur_idx = 120 - 149
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.19642375277749147, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 11, cur_idx = 132 - 161
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.3114444995111083, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 12, cur_idx = 144 - 173
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.36012731619098093, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 13, cur_idx = 156 - 185
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.26863693532512134, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 14, cur_idx = 168 - 197
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.29123267184549284, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 15, cur_idx = 180 - 209
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.22456485083003208, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 16, cur_idx = 192 - 221
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.27902360490828615, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 17, cur_idx = 204 - 233
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.43974504354375277, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 18, cur_idx = 216 - 245
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.34468326292324614, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 19, cur_idx = 228 - 257
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.33787841499732507, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 20, cur_idx = 240 - 269
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.32858200250751013, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 21, cur_idx = 252 - 281
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.1670373921580557, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 22, cur_idx = 264 - 293
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.1253088421620956, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 23, cur_idx = 276 - 305
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.24277885127756094, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 24, cur_idx = 288 - 317
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.3381120313522852, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 25, cur_idx = 300 - 329
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.40706453676016996, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 26, cur_idx = 312 - 341
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.3408644966246489, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 27, cur_idx = 324 - 353
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.3652641612642805, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 28, cur_idx = 336 - 365
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.3876853830957475, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 29, cur_idx = 348 - 377
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.3348751640226427, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 30, cur_idx = 360 - 389
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.2214889355880738, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 31, cur_idx = 372 - 401
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.18274445201517853, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 32, cur_idx = 384 - 413
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.23227498314186068, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 33, cur_idx = 396 - 425
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.3136771767854927, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 34, cur_idx = 408 - 437
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.2626856394375754, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 35, cur_idx = 420 - 449
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.18426463859859887, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 36, cur_idx = 432 - 461
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.15400199558663985, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 37, cur_idx = 444 - 473
+INFO:root:Classifier: 2, Accuracy: 0.8333333333333334, simiarity = -0.28861506762578315, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 38, cur_idx = 456 - 485
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.2979788026046559, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 39, cur_idx = 468 - 497
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.3428281127641981, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 40, cur_idx = 480 - 509
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.42473417817501236, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 41, cur_idx = 492 - 521
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.4312321109324123, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 42, cur_idx = 504 - 533
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.3833142333381272, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 43, cur_idx = 516 - 545
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.28427836418295915, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 44, cur_idx = 528 - 557
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.23764904981365675, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 45, cur_idx = 540 - 569
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.19159535345848566, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 46, cur_idx = 552 - 581
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.29117924150813834, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 47, cur_idx = 564 - 593
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.3408510472294043, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 48, cur_idx = 576 - 605
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.24249852470419808, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 49, cur_idx = 588 - 617
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.18465221688900313, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 50, cur_idx = 600 - 629
+INFO:root:Classifier: 2, Accuracy: 0.8, simiarity = -0.18080013437814113, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 51, cur_idx = 612 - 641
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.2701734908170599, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 52, cur_idx = 624 - 653
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.28803504152072146, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 53, cur_idx = 636 - 665
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.25956036781068004, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 54, cur_idx = 648 - 677
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.22243570469532414, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 55, cur_idx = 660 - 689
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.20051283067178316, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 56, cur_idx = 672 - 701
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.1541566091409421, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 57, cur_idx = 684 - 713
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.232335970152463, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 58, cur_idx = 696 - 725
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.33261895157913457, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 59, cur_idx = 708 - 737
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.3244296685769523, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 60, cur_idx = 720 - 749
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.39191930915348583, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 61, cur_idx = 732 - 761
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.35215450678279125, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 62, cur_idx = 744 - 773
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.37303172778754956, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 63, cur_idx = 756 - 785
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.41972746449228326, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 64, cur_idx = 768 - 797
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.3245003274688575, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 65, cur_idx = 780 - 809
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.26791186059442895, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 66, cur_idx = 792 - 821
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.18195990697203535, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 67, cur_idx = 804 - 833
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.12848623691194094, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 68, cur_idx = 816 - 845
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.07166653139399803, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 69, cur_idx = 828 - 857
+INFO:root:Classifier: 2, Accuracy: 0.8666666666666667, simiarity = -0.11595502089945897, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 70, cur_idx = 840 - 869
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.24326757387757392, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 71, cur_idx = 852 - 881
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.2785941947945825, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 72, cur_idx = 864 - 893
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.37207462977546235, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 73, cur_idx = 876 - 905
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.31438575827637816, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 74, cur_idx = 888 - 917
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.29271601461783403, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 75, cur_idx = 900 - 929
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.9, simiarity = -0.3408949017475561, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 76, cur_idx = 912 - 941
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.2694319439731333, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 77, cur_idx = 924 - 953
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.23139348813405347, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 78, cur_idx = 936 - 965
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.3129793146704024, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 79, cur_idx = 948 - 977
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, simiarity = -0.30757782266929357, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 80, cur_idx = 960 - 989
+INFO:root:Classifier: 2, Accuracy: 0.9333333333333333, simiarity = -0.2529187265773074, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:step_counter 81, cur_idx = 972 - 1001
+INFO:root:Classifier: 2, Accuracy: 0.8928571428571429, simiarity = -0.2709944537908425, similarity_list = similarity list [-0.42703376541573435, -0.28629760545646377, -0.18941450276393335]
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+INFO:root:[0.26666666666666666, 0.26666666666666666, 0.23333333333333334, 0.2, 0.26666666666666666, 0.8666666666666667, 0.8, 0.8, 1.0, 0.9333333333333333, 0.9333333333333333, 0.9, 0.9, 0.8666666666666667, 0.9, 0.9333333333333333, 0.9333333333333333, 0.9333333333333333, 0.9666666666666667, 0.9666666666666667, 0.9, 0.9333333333333333, 0.9333333333333333, 0.9333333333333333, 0.9333333333333333, 0.9666666666666667, 0.9666666666666667, 0.9333333333333333, 1.0, 1.0, 1.0, 1.0, 0.9666666666666667, 0.9, 0.8666666666666667, 0.8333333333333334, 0.8666666666666667, 0.9, 0.9666666666666667, 0.9666666666666667, 1.0, 0.9333333333333333, 0.9333333333333333, 0.9666666666666667, 0.9666666666666667, 0.9666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8, 0.8666666666666667, 0.9666666666666667, 0.9666666666666667, 0.9333333333333333, 0.8666666666666667, 0.8666666666666667, 0.8666666666666667, 0.9, 0.9333333333333333, 0.9666666666666667, 0.9666666666666667, 0.9666666666666667, 0.9333333333333333, 0.9666666666666667, 0.9666666666666667, 1.0, 0.9333333333333333, 0.9333333333333333, 0.8666666666666667, 0.9, 0.9333333333333333, 1.0, 0.9666666666666667, 0.9333333333333333, 0.9, 0.9666666666666667, 1.0, 0.9666666666666667, 0.9666666666666667, 0.9333333333333333, 0.8928571428571429]
+INFO:root:Accuracy of n=30, no shuffle and no update,least accurate = 0.2
+INFO:root:least accuracy found in 3
+INFO:root:number of classifier 2, they are [0, 6]

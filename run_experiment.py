@@ -28,7 +28,7 @@ def get_error_distance(data_stream):
     return error_distances
     
 def main():
-    logging.basicConfig(filename="newlog.log", level=logging.INFO)
+    logging.basicConfig(filename="log.log", level=logging.INFO)
     warnings.filterwarnings("ignore")
 
     #Parameters
@@ -52,7 +52,7 @@ def main():
 
     #Load data 2: UCR-Archive
     file_train,file_test = load_data_UCR(data_path)
-    datastream = file_train
+    datastream = file_test
     seed = 0
     type_idx = []
 
@@ -63,12 +63,7 @@ def main():
     logging.info(log_info)
     logging.info(f"number of run = {len(splited_datastream_list)}")
     
-    #NEW
-    mrf = MiniRocketFeatures(splited_datastream_list[0].shape[0], splited_datastream_list[0].shape[1]-1).to(default_device())
-    PATH = Path("./models/MRF.pt")
-    PATH.parent.mkdir(parents=True, exist_ok=True)
-    torch.save(mrf.state_dict(), PATH)
-    
+
     cur_idx = 0
 
     for current_datastream in splited_datastream_list:
@@ -79,7 +74,7 @@ def main():
         if cur_classifier_idx:
             # if classifier exist try current classifier
             cur_classifier = classifier_list[cur_classifier_idx]
-            predict_Y = cur_classifier.predict(current_datastream)
+            predict_Y = cur_classifier.predict_GPU(current_datastream)
                     
             #Get stat for figureprint
             cur_fingerprint = cur_classifier.get_fingerprint(current_datastream)
@@ -93,7 +88,7 @@ def main():
             new_classifier_needed = True
             if state_similarity: 
                 # Call current classifier update function when sim check passed
-                cur_classifier.update(state_similarity,cur_similarity,cur_fingerprint,current_datastream)
+                cur_classifier.update(state_similarity,cur_similarity,cur_fingerprint,current_datastream,GPU=True)
                 new_classifier_needed = False
                 logging.info(f"Type1 - use current classifier {cur_classifier_idx}, state_similarity: {state_similarity}")
             
@@ -103,7 +98,7 @@ def main():
                 for idx in range(1,len(classifier_list)):
                     # TODO: repeated code here, might need restrucure
                     cur_classifier = classifier_list[idx]
-                    predict_Y = cur_classifier.predict(current_datastream)
+                    predict_Y = cur_classifier.predict_GPU(current_datastream)
 
                     #TODO:Shows Accuracy
                     current_accuracy = current_datastream["predict_corr"].sum()/current_datastream.shape[0]
@@ -117,7 +112,7 @@ def main():
                     logging.info(f"Classifier: {idx}, Accuracy: {current_accuracy}, similarity: {cur_similarity}, similarity_list = {cur_classifier}")
 
                     if state_similarity:
-                        cur_classifier.update(state_similarity,cur_similarity,cur_fingerprint,current_datastream)
+                        cur_classifier.update(state_similarity,cur_similarity,cur_fingerprint,current_datastream,GPU=True)
                         new_classifier_needed = False
                         cur_classifier_idx = idx
                         logging.info((f"Type2 - loop to last classifier{cur_classifier_idx}, similarity: {cur_similarity}, state_similarity: {state_similarity}"))

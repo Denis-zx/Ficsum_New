@@ -14,7 +14,7 @@ import torch
 
 class Classifier:
     
-    def __init__(self,current_datastream,index,max_sim_factor=2,min_sim_factor=2):
+    def __init__(self,current_datastream,index,GPU_feature = None, max_sim_factor=2,min_sim_factor=2):
         #Definition Headers
         self.index = index
         self.classifier = None
@@ -37,24 +37,22 @@ class Classifier:
         #Adjust data to minirocket form CPU
         #X_transform,Y_datastream = self.get_adjust_XY(current_datastream=current_datastream)
         #Adjust data to minirocket form GPU
-        X_transform,Y_datastream = self.get_adjust_XY_GPU(current_datastream=current_datastream)
+        X_datastream,Y_datastream = self.get_XY(current_datastream=current_datastream)
+        mrf_c = MiniRocketFeatures(1,X_datastream.shape[1]).to(default_device())
+        reshaped_X = X_datastream.reshape((X_datastream.shape[0], 1, X_datastream.shape[1]))
+        mrf_c.fit(reshaped_X)
+        X_feat = get_minirocket_features(reshaped_X, mrf_c, chunksize=1024, to_np=True)
+        PATH = Path(f"./models/MRF_{self.index}.pt")
+        PATH.parent.mkdir(parents=True, exist_ok=True)
+        torch.save(mrf_c.state_dict(), PATH)
+
 
         #Train classifier CPU
         #self.classifier = RidgeClassifierCV(alphas = np.logspace(-3, 3, 10), normalize = True)
         #self.classifier.fit(X_transform, Y_datastream)
         
         #Train classifier GPU
-        # Using tsai/fastai, create DataLoaders for the features in X_feat.
-        tfms = [None, TSClassification()]
-        batch_tfms = TSStandardize(by_sample=True)
-        dls = get_ts_dls(X_transform, Y_datastream, tfms=tfms, batch_tfms=batch_tfms)
-        self.classifier = build_ts_model(MiniRocketHead, dls=dls)
-        
-        learn = Learner(dls, self.classifier, metrics=accuracy, cbs=ShowGraph())
-        learn.lr_find()
-        PATH = Path(f'./models/MRL_{self.index}.pkl')
-        PATH.parent.mkdir(parents=True, exist_ok=True)
-        learn.export(PATH)
+        self.train(X_feat,Y_datastream)
         
         #Generate First Fingureprint
         #self.predict(current_datastream)
@@ -75,6 +73,12 @@ class Classifier:
         return f"similarity list {self.similarity_list}"
         return f"similarity list {self.similarity_list}\n weight {self.weight_sd}\n fingerprint {self.cur_fingerprint}\n "
 
+    def get_XY(self,current_datastream):
+        Y_datastream = current_datastream["Y"].to_numpy(dtype = "float32")
+        X_datastream = current_datastream.drop("Y", axis=1).to_numpy(dtype = "float32")
+
+        return X_datastream,Y_datastream
+
     def get_adjust_XY(self,current_datastream):
 
         Y_datastream = current_datastream["Y"].to_numpy(dtype = "float32")
@@ -85,18 +89,16 @@ class Classifier:
         return X_transform,Y_datastream
 
     def get_adjust_XY_GPU(self,current_datastream):
-        #Adjust data to minirocket form
-        print(current_datastream.shape[0], current_datastream.shape[1]-1)
-        mrf = MiniRocketFeatures(current_datastream.shape[0], current_datastream.shape[1]-1).to(default_device())
-        PATH = Path("./models/MRF.pt")
-        mrf.load_state_dict(torch.load(PATH))   
-        
         Y_datastream = current_datastream["Y"].to_numpy(dtype = "float32")
         X_datastream = current_datastream.drop("Y", axis=1).to_numpy(dtype = "float32")
-
-        parameters = mrf.fit(X_datastream)
-        X_transform = get_minirocket_features(X_datastream, mrf, chunksize=1024, to_np=True)
-        return X_transform,Y_datastream
+        reshaped_X = X_datastream.reshape((X_datastream.shape[0], 1, X_datastream.shape[1]))
+        #Adjust data to minirocket form
+        # parameter = Dimension,features
+        mrf = MiniRocketFeatures(1, current_datastream.shape[1]-1).to(default_device())
+        PATH = Path(f"./models/MRF_{self.index}.pt")
+        mrf.load_state_dict(torch.load(PATH))   
+        new_feat = get_minirocket_features(reshaped_X, mrf, chunksize=1024, to_np=True)
+        return new_feat,Y_datastream
 
     def predict(self,current_datastream):
         X_transform,Y_datastream =self.get_adjust_XY(current_datastream=current_datastream)
@@ -106,12 +108,29 @@ class Classifier:
         current_datastream["predict_corr"] = current_datastream.apply(lambda x:1 if x["Y"] == x["predict_Y"] else 0,axis = 1)
       
     def predict_GPU (self,current_datastream):
-        X_transform,Y_datastream =self.get_adjust_XY_GPU(current_datastream=current_datastream)
+        X_feat,Y_datastream =self.get_adjust_XY_GPU(current_datastream=current_datastream)
         PATH = Path(f'./models/MRL_{self.index}.pkl')
         learn = load_learner(PATH, cpu=False)
-        probas, _, predict_Y = learn.get_X_preds(X_transform)
+        probas, _, predict_Y = learn.get_X_preds(X_feat)
+        predict_Y = [float(predict_i) for predict_i in predict_Y]
         current_datastream["predict_Y"] = predict_Y
         current_datastream["predict_corr"] = current_datastream.apply(lambda x:1 if x["Y"] == x["predict_Y"] else 0,axis = 1)
+
+    def train(self,X_feat, Y_datastream):
+        #Train classifier GPU
+        # Using tsai/fastai, create DataLoaders for the features in X_feat.
+        tfms = [None, TSClassification()]
+        batch_tfms = TSStandardize(by_sample=True)
+        dls = get_ts_dls(X_feat, Y_datastream, tfms=tfms, batch_tfms=batch_tfms)
+        self.classifier = build_ts_model(MiniRocketHead, dls=dls)
+        
+        learn = Learner(dls, self.classifier, metrics=accuracy)
+        #l_value = learn.lr_find()
+        #print(f"learning rate = {l_value}")
+        learn.fit_one_cycle(10, 7e-4)
+        PATH = Path(f'./models/MRL_{self.index}.pkl')
+        PATH.parent.mkdir(parents=True, exist_ok=True)
+        learn.export(PATH)
 
     def get_fingerprint(self,current_datastream):
         return fingerprint_generator(expredicted_datastream=current_datastream)
@@ -139,7 +158,7 @@ class Classifier:
         else:
             return 3
 
-    def update(self,states,new_similarity,new_fingerprint,current_datastream):
+    def update(self,states,new_similarity,new_fingerprint,current_datastream,GPU=False):
         '''
         1: Normal case (no further update needed)
         2: New max similarity
@@ -159,9 +178,13 @@ class Classifier:
             self.max_similarity = new_similarity + 1.5*np.std(self.similarity_list)
             self.allowed_similarity = np.mean(self.similarity_list) - 2*np.std(self.similarity_list)
 
-            #TODO:Retrain classifier (test for beter result)
-            X_transform,Y_datastream =self.get_adjust_XY(current_datastream=current_datastream)
-            self.classifier.fit(X_transform, Y_datastream)
+            if GPU:
+                X_feat,Y_datastream = self.get_adjust_XY_GPU(current_datastream=current_datastream)
+                self.train(X_feat,Y_datastream)
+            else:
+                #TODO:Retrain classifier (test for beter result)
+                X_transform,Y_datastream =self.get_adjust_XY(current_datastream=current_datastream)
+                self.classifier.fit(X_transform, Y_datastream)
 
 
         elif states == 3:
