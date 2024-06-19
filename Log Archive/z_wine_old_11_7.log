@@ -1,0 +1,2433 @@
+INFO:root:lenth = 30, overlap = 0.6, max_sim_factor = 1.5, min_sim_factor = 1
+INFO:root:{0: [0, 523, 734, 1275, 1519, 1599], 1: [1599, 1836, 3639, 5413, 5941, 6496]}
+[0, 523, 760, 971, 2774, 3315, 5089, 5333, 5861, 5941, 6496]
+INFO:root:number of run = 540
+INFO:root:cur_idx = 0 - 29
+INFO:root:cur_idx = 12 - 41
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.005119303764177241, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 1, state_similarity: 3
+
+INFO:root:cur_idx = 24 - 53
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.029322365015599705, similarity_list = similarity list [-0.005119303764177241]
+INFO:root:Type1 - use current classifier 1, state_similarity: 3
+
+INFO:root:cur_idx = 36 - 65
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.012266769983190096, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705]
+INFO:root:Type1 - use current classifier 1, state_similarity: 2
+
+INFO:root:cur_idx = 48 - 77
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.01374321399722711, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 60 - 89
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.014017927503465977, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 72 - 101
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.014786002991116654, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 84 - 113
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.02190751809974012, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 96 - 125
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.019576005553122222, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 108 - 137
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.01602689122942813, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 120 - 149
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.02116307813453322, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 132 - 161
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.05245275345847811, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.05245275345847811, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 144 - 173
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.009586430509164967, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 2, state_similarity: 3
+
+INFO:root:cur_idx = 156 - 185
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.00835528893471671, similarity_list = similarity list [-0.009586430509164967]
+INFO:root:Type1 - use current classifier 2, state_similarity: 3
+
+INFO:root:cur_idx = 168 - 197
+INFO:root:Classifier: 2, Accuracy: 1.0, simiarity = -0.020443867062560628, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.025437184237429133, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.025437184237429133, state_similarity: 1
+
+INFO:root:cur_idx = 180 - 209
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.022592473104152022, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 192 - 221
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.02000562707266862, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 204 - 233
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.04424905105176091, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.04424905105176091, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.028826582488422625, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 216 - 245
+INFO:root:Classifier: 3, Accuracy: 1.0, simiarity = -0.025133986868415947, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 3, state_similarity: 3
+
+INFO:root:cur_idx = 228 - 257
+INFO:root:Classifier: 3, Accuracy: 1.0, simiarity = -0.01982038367282235, similarity_list = similarity list [-0.025133986868415947]
+INFO:root:Type1 - use current classifier 3, state_similarity: 3
+
+INFO:root:cur_idx = 240 - 269
+INFO:root:Classifier: 3, Accuracy: 1.0, simiarity = -0.03290761195538405, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.03360005743714478, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.03360005743714478, state_similarity: 1
+
+INFO:root:cur_idx = 252 - 281
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.030493645045954754, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 264 - 293
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.040871031574422956, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.040871031574422956, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.054635452229034875, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 1.0, similarity: -0.03483562028307541, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 276 - 305
+INFO:root:Classifier: 4, Accuracy: 1.0, simiarity = -0.0026902994750930276, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 4, state_similarity: 3
+
+INFO:root:cur_idx = 288 - 317
+INFO:root:Classifier: 4, Accuracy: 1.0, simiarity = -0.017358451218319138, similarity_list = similarity list [-0.0026902994750930276]
+INFO:root:Type1 - use current classifier 4, state_similarity: 3
+
+INFO:root:cur_idx = 300 - 329
+INFO:root:Classifier: 4, Accuracy: 1.0, simiarity = -0.02455593147158852, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Type1 - use current classifier 4, state_similarity: 1
+
+INFO:root:cur_idx = 312 - 341
+INFO:root:Classifier: 4, Accuracy: 1.0, simiarity = -0.044575296476830895, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.021591581573588647, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.021591581573588647, state_similarity: 1
+
+INFO:root:cur_idx = 324 - 353
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.038961725101447575, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.038961725101447575, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.08964651189527162, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 1.0, similarity: -0.05272503051349575, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 1.0, similarity: -0.04905734581321575, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 336 - 365
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.009921085917320993, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 5, state_similarity: 3
+
+INFO:root:cur_idx = 348 - 377
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.023445922220459603, similarity_list = similarity list [-0.009921085917320993]
+INFO:root:Type1 - use current classifier 5, state_similarity: 3
+
+INFO:root:cur_idx = 360 - 389
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.018865534551309016, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 372 - 401
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.02400748147211418, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 384 - 413
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.030168866292033636, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 396 - 425
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.033868137516332664, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.012480192935827916, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.012480192935827916, state_similarity: 1
+
+INFO:root:cur_idx = 408 - 437
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.020682701031145223, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 420 - 449
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.06919051471483362, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.06919051471483362, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.08744713203442389, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 1.0, similarity: -0.04925057405693822, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 1.0, similarity: -0.023266247010007235, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Type2 - loop to last classifier4, similarity: -0.023266247010007235, state_similarity: 1
+
+INFO:root:cur_idx = 432 - 461
+INFO:root:Classifier: 4, Accuracy: 1.0, simiarity = -0.03951446568750283, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.07217545193739605, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.08243876618772061, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 1.0, similarity: -0.04220162687239282, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 1.0, similarity: -0.03951446568750283, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 1.0, similarity: -0.057096380500609056, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 444 - 473
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.014196846797560503, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 6, state_similarity: 3
+
+INFO:root:cur_idx = 456 - 485
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.20242877004836046, similarity_list = similarity list [-0.014196846797560503]
+INFO:root:Type1 - use current classifier 6, state_similarity: 3
+
+INFO:root:cur_idx = 468 - 497
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.018281420714294394, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046]
+INFO:root:Type1 - use current classifier 6, state_similarity: 2
+
+INFO:root:cur_idx = 480 - 509
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.018499696732740878, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 492 - 521
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.026017333422296618, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 504 - 533
+INFO:root:Classifier: 6, Accuracy: 0.6333333333333333, simiarity = -0.12404422723542541, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 516 - 545
+INFO:root:Classifier: 6, Accuracy: 0.23333333333333334, simiarity = -0.17500620817697954, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 528 - 557
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19357755256447828, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 540 - 569
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2202227697612712, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 552 - 581
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23218377816337576, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 564 - 593
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23173437703780198, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 576 - 605
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2103312290764776, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 588 - 617
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23878488746772708, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 600 - 629
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2558309142480797, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.11010602157739424, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.11932032221352551, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.15648555969071154, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.19063795629062175, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.23584501006998093, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2558309142480797, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 612 - 641
+INFO:root:Classifier: 7, Accuracy: 1.0, simiarity = -0.0007258850826273866, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 7, state_similarity: 3
+
+INFO:root:cur_idx = 624 - 653
+INFO:root:Classifier: 7, Accuracy: 1.0, simiarity = -0.004640259160133442, similarity_list = similarity list [-0.0007258850826273866]
+INFO:root:Type1 - use current classifier 7, state_similarity: 3
+
+INFO:root:cur_idx = 636 - 665
+INFO:root:Classifier: 7, Accuracy: 1.0, simiarity = -0.007700909706696901, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.09355093544638549, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.09509285872172069, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.13637139931132825, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.15652205682843578, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.20367672334609344, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.23547141892418744, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.23547141892418744, state_similarity: 1
+
+INFO:root:cur_idx = 648 - 677
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22148660590703317, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 660 - 689
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20925911980210188, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 672 - 701
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21228398780746338, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 684 - 713
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.25196018744692994, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 696 - 725
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.28445679443196137, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.13703043084631328, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.13684906193657442, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.18177757373987258, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.20636982368562207, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.2655928697614851, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.28445679443196137, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.015506320587181488, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 708 - 737
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.005837982974018829, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 8, state_similarity: 3
+
+INFO:root:cur_idx = 720 - 749
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.022257438147286646, similarity_list = similarity list [-0.005837982974018829]
+INFO:root:Type1 - use current classifier 8, state_similarity: 3
+
+INFO:root:cur_idx = 732 - 761
+INFO:root:Classifier: 8, Accuracy: 0.9333333333333333, simiarity = -0.13401634963233022, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646]
+INFO:root:Classifier: 1, Accuracy: 0.06666666666666667, similarity: -0.19337017346679186, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.06666666666666667, similarity: -0.20708315013729495, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.06666666666666667, similarity: -0.22497203473699556, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.06666666666666667, similarity: -0.2565702772438829, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.06666666666666667, similarity: -0.285890063320437, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.06666666666666667, similarity: -0.30479981480219276, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 0.9333333333333333, similarity: -0.07759324307313387, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 0.9333333333333333, similarity: -0.13401634963233022, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 744 - 773
+INFO:root:Classifier: 9, Accuracy: 0.5333333333333333, simiarity = -0.043158828778085856, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 9, state_similarity: 3
+
+INFO:root:cur_idx = 756 - 785
+INFO:root:Classifier: 9, Accuracy: 0.13333333333333333, simiarity = -0.08252668654055273, similarity_list = similarity list [-0.043158828778085856]
+INFO:root:Type1 - use current classifier 9, state_similarity: 3
+
+INFO:root:cur_idx = 768 - 797
+INFO:root:Classifier: 9, Accuracy: 0.0, simiarity = -0.12616223021740625, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.050611944714174295, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.09286855837966601, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 1.0, similarity: -0.0508652729138005, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 1.0, similarity: -0.03833552313231192, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 1.0, similarity: -0.017809230271268683, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type2 - loop to last classifier5, similarity: -0.017809230271268683, state_similarity: 1
+
+INFO:root:cur_idx = 780 - 809
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.029041655015487056, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 792 - 821
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.024304423881704396, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 804 - 833
+INFO:root:Classifier: 5, Accuracy: 1.0, simiarity = -0.03982820606622994, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.018872503808318508, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.018872503808318508, state_similarity: 1
+
+INFO:root:cur_idx = 816 - 845
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.021683838979345227, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 828 - 857
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.02879464938893217, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 840 - 869
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.02620248799467728, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 852 - 881
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.01943171433428803, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 864 - 893
+INFO:root:Classifier: 1, Accuracy: 1.0, simiarity = -0.046838262632715955, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 1, Accuracy: 1.0, similarity: -0.046838262632715955, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 1.0, similarity: -0.04063941062324572, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 1.0, similarity: -0.03268792451795777, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 1.0, similarity: -0.11947668549761215, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 1.0, similarity: -0.1091721131318153, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 1.0, similarity: -0.08509096153817497, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.08509096153817497, state_similarity: 1
+
+INFO:root:cur_idx = 876 - 905
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.04434254913069646, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 888 - 917
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.04344180400334108, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 900 - 929
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.027827816656421756, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 912 - 941
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.04157103603096646, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 924 - 953
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.046046595620864106, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 936 - 965
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.060477467407316854, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 948 - 977
+INFO:root:Classifier: 6, Accuracy: 0.7666666666666667, simiarity = -0.13042860224640718, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 960 - 989
+INFO:root:Classifier: 6, Accuracy: 0.36666666666666664, simiarity = -0.19243336704658853, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 972 - 1001
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22610360638806326, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 984 - 1013
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2274413280709877, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 996 - 1025
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.26105624511088277, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.11793533798074152, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.11752172351653412, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.16068375221134468, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.18721100949694736, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.22959548175130062, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.26105624511088277, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.005448068169563891, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Type2 - loop to last classifier7, similarity: -0.005448068169563891, state_similarity: 1
+
+INFO:root:cur_idx = 1008 - 1037
+INFO:root:Classifier: 7, Accuracy: 1.0, simiarity = -0.007200506553598496, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.10537666225815023, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.10857758466717082, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.15366865874384783, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.1810484087711528, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.22244987576954334, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2520833158650252, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.2520833158650252, state_similarity: 1
+
+INFO:root:cur_idx = 1020 - 1049
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2485100791705479, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1032 - 1061
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2267032315774098, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1044 - 1073
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21846135093544083, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1056 - 1085
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22307121684721654, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1068 - 1097
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22791198723396022, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1080 - 1109
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24640214402259042, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1092 - 1121
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24342804896014958, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1104 - 1133
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23514569111610084, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1116 - 1145
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21849974025065477, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1128 - 1157
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2281039641516419, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1140 - 1169
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24288478271695446, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1152 - 1181
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2499339171710242, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1164 - 1193
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22736680204103343, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1176 - 1205
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23378427284267922, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1188 - 1217
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23139190066617066, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1200 - 1229
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21992828010298937, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1212 - 1241
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24229801782419536, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1224 - 1253
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23035948751334512, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1236 - 1265
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20070969811057549, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1248 - 1277
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21425919737003718, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1260 - 1289
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22247539261829097, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1272 - 1301
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2231624308602208, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1284 - 1313
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22430972533610194, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1296 - 1325
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2232145242335526, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1308 - 1337
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20247664324140524, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1320 - 1349
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20790360978614297, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1332 - 1361
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2210206243012015, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1344 - 1373
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24745826735236798, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1356 - 1385
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.265265014246876, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.12929649274950306, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.11846951484143531, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.1623612711193202, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.19097148965178723, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.23955895764880808, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.265265014246876, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.01704672517627237, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.010022265754391912, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.010022265754391912, state_similarity: 2
+
+INFO:root:cur_idx = 1368 - 1397
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01690572836348292, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1380 - 1409
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01424796409762541, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1392 - 1421
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.014870503757776654, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1404 - 1433
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.007373871846896085, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1416 - 1445
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.008343581817880197, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1428 - 1457
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.011794214534712966, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1440 - 1469
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.02311262109281431, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1452 - 1481
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.03515769327242124, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.14932823842050003, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.08632029117539175, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.1619014230897391, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.28039703246544667, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.3071150707025897, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2756918645602656, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.04721180366014588, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.03515769327242124, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 9, Accuracy: 1.0, similarity: -0.14620952950355115, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 1464 - 1493
+INFO:root:Classifier: 10, Accuracy: 1.0, simiarity = -0.003693923250706721, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 10, state_similarity: 3
+
+INFO:root:cur_idx = 1476 - 1505
+INFO:root:Classifier: 10, Accuracy: 1.0, simiarity = -0.014157999901550755, similarity_list = similarity list [-0.003693923250706721]
+INFO:root:Type1 - use current classifier 10, state_similarity: 3
+
+INFO:root:cur_idx = 1488 - 1517
+INFO:root:Classifier: 10, Accuracy: 1.0, simiarity = -0.028708468161916523, similarity_list = similarity list [-0.003693923250706721, -0.014157999901550755]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.09697139270937072, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.10370763860983745, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.1429083916645265, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.16693088203820494, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.2121061862921495, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2380041112942417, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.2380041112942417, state_similarity: 1
+
+INFO:root:cur_idx = 1500 - 1529
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22056108575785194, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1512 - 1541
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24450705067796163, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1524 - 1553
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.25377710369675743, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1536 - 1565
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24002939838701887, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1548 - 1577
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20274671533440836, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1560 - 1589
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2010324174586251, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1572 - 1601
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2113465338337096, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1584 - 1613
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2026503235367315, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1596 - 1625
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1970109843135811, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1608 - 1637
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2117911580742643, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1620 - 1649
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21068256678721142, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1632 - 1661
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22372833024692107, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1644 - 1673
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23766224452155915, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1656 - 1685
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.25547604514750877, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.09954135048220447, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.10396044449168762, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.14970437012290494, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.1859019427887616, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.22993473987127688, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.25547604514750877, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.01605091201691411, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.01368992691475035, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.01368992691475035, state_similarity: 1
+
+INFO:root:cur_idx = 1668 - 1697
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.020938651871294955, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 1680 - 1709
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.03210814667340112, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.10047185985062523, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.08140101362036267, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.12825805105613053, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.20391816972923005, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.21082897330063588, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2198025721599397, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.2198025721599397, state_similarity: 1
+
+INFO:root:cur_idx = 1692 - 1721
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19199436463769604, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1704 - 1733
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.195879766151545, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1716 - 1745
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2193582222202678, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1728 - 1757
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23560771448859874, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1740 - 1769
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24654071776769626, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1752 - 1781
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2265347445691016, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1764 - 1793
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20634567327054565, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1776 - 1805
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20430764334767093, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1788 - 1817
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24447844281743647, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1800 - 1829
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2501114510211496, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1812 - 1841
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23869272918544215, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1824 - 1853
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1993519680078093, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1836 - 1865
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18253189770325828, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1848 - 1877
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18705462074684576, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1860 - 1889
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2315000663123722, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1872 - 1901
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22410443659215307, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1884 - 1913
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22560796678942463, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1896 - 1925
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20424926430747148, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1908 - 1937
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2218423067070574, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1920 - 1949
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.199676145881015, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1932 - 1961
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19734707712506794, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1944 - 1973
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19205655790062515, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1956 - 1985
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2187793573468323, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1968 - 1997
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2508070468270124, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1980 - 2009
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24695294375329735, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1992 - 2021
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24199366644436238, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2004 - 2033
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2150107240074789, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2016 - 2045
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21397524866436757, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2028 - 2057
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23203101149749594, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2040 - 2069
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2202353710360596, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2052 - 2081
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2297687800349082, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2064 - 2093
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24207153111670499, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2076 - 2105
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22703430527730328, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2088 - 2117
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21795202149690684, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2100 - 2129
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18908534537414912, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2112 - 2141
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18890234625927915, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2124 - 2153
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2091801120020249, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2136 - 2165
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1982695529582742, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2148 - 2177
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22172387351619915, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2160 - 2189
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22049461472137677, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2172 - 2201
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23015433990125844, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2184 - 2213
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21267636925448097, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2196 - 2225
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21224998159346065, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2208 - 2237
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21603914407137292, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2220 - 2249
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22601991277237476, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2232 - 2261
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2481827669660559, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2244 - 2273
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23884135780155458, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2256 - 2285
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2300943123553012, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2268 - 2297
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1963930598176037, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2280 - 2309
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22252882003696872, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2292 - 2321
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23617873794302124, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2304 - 2333
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23435467729954007, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2316 - 2345
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2216875875095805, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2328 - 2357
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2213408486983247, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2340 - 2369
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23345047645369688, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2352 - 2381
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23047718309719012, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2364 - 2393
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23925489370277464, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2376 - 2405
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2312575629044612, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2388 - 2417
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24927101808639884, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2400 - 2429
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2573704446740316, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.10797869641852331, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.10924989914133332, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.15570602337573114, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.18595616185419084, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.23511315005432387, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2573704446740316, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.010910354860336202, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.011763294622008313, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.011763294622008313, state_similarity: 1
+
+INFO:root:cur_idx = 2412 - 2441
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.016112777431866454, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2424 - 2453
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.013522792023784258, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2436 - 2465
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.018098382742328556, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2448 - 2477
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01876988199570062, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2460 - 2489
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.014189639489777695, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2472 - 2501
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01774238506690584, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2484 - 2513
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.014857222265242442, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2496 - 2525
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.020115907508189812, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2508 - 2537
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.022349501322930343, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2520 - 2549
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.017565649508106018, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2532 - 2561
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.018029205464122122, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2544 - 2573
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.0186786475476719, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2556 - 2585
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.020253890593603496, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2568 - 2597
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01082231487644758, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2580 - 2609
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.02394271999845987, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2592 - 2621
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.02468648855875244, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2604 - 2633
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.012858545080925765, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2616 - 2645
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.010335011583997189, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2628 - 2657
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.017099276024876264, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2640 - 2669
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.03293297905574999, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.07465360114101227, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.10144038693718938, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.12713964983809634, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.16125484625110476, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.19814282850277065, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2239029291700665, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.2239029291700665, state_similarity: 1
+
+INFO:root:cur_idx = 2652 - 2681
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.25972699721784964, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.0965900285307929, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.11665479425628145, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.15525414672250426, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.18294904915576338, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.22790608138788682, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.25972699721784964, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.025314670313215104, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.024382707408117765, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.024382707408117765, state_similarity: 1
+
+INFO:root:cur_idx = 2664 - 2693
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.026116569325777772, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2676 - 2705
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.010264706220675435, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2688 - 2717
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01037188570057257, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2700 - 2729
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.008209990688635704, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2712 - 2741
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.009076010478819008, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2724 - 2753
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.014777468225443124, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2736 - 2765
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01617510100213959, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 2748 - 2777
+INFO:root:Classifier: 8, Accuracy: 0.8666666666666667, simiarity = -0.05984388661073847, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.13333333333333333, similarity: -0.08078651366160017, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.13333333333333333, similarity: -0.0852763495450023, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.13333333333333333, similarity: -0.11732570314968094, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.13333333333333333, similarity: -0.14587915062053503, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.13333333333333333, similarity: -0.17757421485757363, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.13333333333333333, similarity: -0.20800359394756907, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.20800359394756907, state_similarity: 1
+
+INFO:root:cur_idx = 2760 - 2789
+INFO:root:Classifier: 6, Accuracy: 0.5333333333333333, simiarity = -0.15776903413791366, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2772 - 2801
+INFO:root:Classifier: 6, Accuracy: 0.9333333333333333, simiarity = -0.20444163983288077, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2784 - 2813
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.06753197189253624, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2796 - 2825
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.06265110449387268, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2808 - 2837
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.07852617247538074, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2820 - 2849
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.04020709977664194, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2832 - 2861
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.020794658695305057, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2844 - 2873
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.020064874057675985, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2856 - 2885
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.027384758784095298, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2868 - 2897
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.0374973596989725, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2880 - 2909
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.03447191529965421, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2892 - 2921
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.03849400055526664, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2904 - 2933
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.03482006561180606, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2916 - 2945
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.035505852805624016, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2928 - 2957
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.029734789522971594, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2940 - 2969
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.02673483047742753, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2952 - 2981
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.020266826063856436, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2964 - 2993
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.024513746276111914, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2976 - 3005
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.021819954174790435, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2988 - 3017
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.029185887117237685, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3000 - 3029
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.029035336924262523, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3012 - 3041
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.03075965982205675, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3024 - 3053
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.02629085575098289, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3036 - 3065
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.026399255408582345, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3048 - 3077
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.026642029550056123, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3060 - 3089
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.02408208733824091, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3072 - 3101
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.020413861626459306, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3084 - 3113
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.021022358722446732, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3096 - 3125
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.08974386684781221, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3108 - 3137
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.08996499846187445, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3120 - 3149
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.05699446525259633, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3132 - 3161
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.020302936434962948, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3144 - 3173
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.02278782177011074, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3156 - 3185
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.032247673975594804, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3168 - 3197
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.034740228421404895, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3180 - 3209
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.01919440853440335, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3192 - 3221
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.018885486484002456, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3204 - 3233
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.0208928049043271, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3216 - 3245
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.029665693046369013, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3228 - 3257
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.026202473201074383, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3240 - 3269
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.02291282531654637, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3252 - 3281
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.030518610001092905, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3264 - 3293
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.04708272674877256, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3276 - 3305
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.04651203052342101, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3288 - 3317
+INFO:root:Classifier: 6, Accuracy: 0.9, simiarity = -0.1146097839863277, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3300 - 3329
+INFO:root:Classifier: 6, Accuracy: 0.5, simiarity = -0.13939212147083313, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3312 - 3341
+INFO:root:Classifier: 6, Accuracy: 0.1, simiarity = -0.2342562863387162, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3324 - 3353
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2442129881936268, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3336 - 3365
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22070956233271954, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3348 - 3377
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24112592518512954, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3360 - 3389
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2748764902688353, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.12656667293638646, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.17464449965515538, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.17922445381782082, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.21215807928706876, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.2767382088120214, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2748764902688353, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.08102573479428243, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.02111906977709499, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.02111906977709499, state_similarity: 1
+
+INFO:root:cur_idx = 3372 - 3401
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.011125208484396354, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3384 - 3413
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01926233334843297, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3396 - 3425
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.023033303651967874, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3408 - 3437
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.028592534544110038, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.0763188517693194, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.13410755646884676, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.1269027476075365, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.1757859424502316, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.21802198930723748, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.22691948097470194, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.22691948097470194, state_similarity: 1
+
+INFO:root:cur_idx = 3420 - 3449
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2509710790831091, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3432 - 3461
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2377278543637471, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3444 - 3473
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2235739999907248, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3456 - 3485
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22611590457498898, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3468 - 3497
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22161798886225836, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3480 - 3509
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22438577891506872, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3492 - 3521
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2452941412997376, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3504 - 3533
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2470359712931154, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3516 - 3545
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24841700078284323, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3528 - 3557
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23200384371078808, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3540 - 3569
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24256708464786692, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3552 - 3581
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23872569463350357, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3564 - 3593
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2171216005766332, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3576 - 3605
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2200258764989308, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3588 - 3617
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2287864508802795, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3600 - 3629
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23123938514963727, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3612 - 3641
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23462955221255666, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3624 - 3653
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23975036436740493, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3636 - 3665
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2410174407026302, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3648 - 3677
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24018829277870724, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3660 - 3689
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24270627559117852, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3672 - 3701
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23725381651083444, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3684 - 3713
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.28445048226405945, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.1297973339664087, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.12770130034104166, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.17185132414059512, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.19823542067142563, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.2622974055836388, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.28445048226405945, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.024497425920788962, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.009508930941379057, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.009508930941379057, state_similarity: 1
+
+INFO:root:cur_idx = 3696 - 3725
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.010287242162376087, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3708 - 3737
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.017414663124496244, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3720 - 3749
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.012661898472908328, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3732 - 3761
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.013338369133521155, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3744 - 3773
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.015994203279870667, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3756 - 3785
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.013614076820764986, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3768 - 3797
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01404547238251952, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3780 - 3809
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.013114826029708926, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3792 - 3821
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.014594431799352603, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3804 - 3833
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.016353828930153913, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3816 - 3845
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.014274595314890615, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3828 - 3857
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.015875356760163495, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3840 - 3869
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01748683208381263, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3852 - 3881
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.013662543841068797, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3864 - 3893
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.016844851041369124, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3876 - 3905
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.019842076972629297, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3888 - 3917
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01849892308091161, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3900 - 3929
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.015958321938668862, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3912 - 3941
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.01851439220275064, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3924 - 3953
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.022294668560082442, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 3936 - 3965
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.030560620866279753, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.07770609928764616, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.08074250536350214, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.10914598261707564, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.13782103728539852, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.1690543784454216, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.19446230003279275, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.19446230003279275, state_similarity: 1
+
+INFO:root:cur_idx = 3948 - 3977
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20036153633530163, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3960 - 3989
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2529641171261552, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3972 - 4001
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2519475167648061, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3984 - 4013
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2464545592325652, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 3996 - 4025
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.219139155826506, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4008 - 4037
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20436561073007986, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4020 - 4049
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21183601886320513, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4032 - 4061
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.27280942705862254, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.17631702908962388, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.17054472462639014, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.20509351587982172, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.290437940026123, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.24126493698596818, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.27280942705862254, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.1677839042953081, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.1449566259303574, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 9, Accuracy: 1.0, similarity: -0.17574688324323695, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273]
+INFO:root:Classifier: 10, Accuracy: 1.0, similarity: -0.23074785176063506, similarity_list = similarity list [-0.003693923250706721, -0.014157999901550755]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 4044 - 4073
+INFO:root:Classifier: 11, Accuracy: 1.0, simiarity = -0.0015433978917404056, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 11, state_similarity: 3
+
+INFO:root:cur_idx = 4056 - 4085
+INFO:root:Classifier: 11, Accuracy: 1.0, simiarity = -0.007145093028263605, similarity_list = similarity list [-0.0015433978917404056]
+INFO:root:Type1 - use current classifier 11, state_similarity: 3
+
+INFO:root:cur_idx = 4068 - 4097
+INFO:root:Classifier: 11, Accuracy: 1.0, simiarity = -0.13967405006227773, similarity_list = similarity list [-0.0015433978917404056, -0.007145093028263605]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.06825114672792099, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.06705669660879676, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.10080646112926495, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.12009862028953266, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.1807882458324822, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.19464268590846967, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.19464268590846967, state_similarity: 1
+
+INFO:root:cur_idx = 4080 - 4109
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21070836714675167, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4092 - 4121
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20957063297224354, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4104 - 4133
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19138062672752976, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4116 - 4145
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1749751834236456, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4128 - 4157
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.17833538222343392, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4140 - 4169
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.17676252197376674, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4152 - 4181
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1977735992778492, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4164 - 4193
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20826209687268316, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4176 - 4205
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19202378038041412, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4188 - 4217
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19634631255055957, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4200 - 4229
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.191602096377827, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4212 - 4241
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1793755404750078, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4224 - 4253
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.17550564897712884, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4236 - 4265
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1922919861219078, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4248 - 4277
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20365393810782673, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4260 - 4289
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21657004857128614, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4272 - 4301
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2062499058571593, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4284 - 4313
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19953924374299403, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4296 - 4325
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24585340577557313, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4308 - 4337
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23781188761891658, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4320 - 4349
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22524956805351937, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4332 - 4361
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20368741513237687, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4344 - 4373
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1758889964406235, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4356 - 4385
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2041283191489811, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4368 - 4397
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.217579031717136, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4380 - 4409
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19872903699221, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4392 - 4421
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19974352411492735, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4404 - 4433
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.26721391185512433, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.15033611116309598, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.11149073886534755, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.17256980832124225, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.29351331394808, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.283152987941265, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.26721391185512433, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.03206679713454952, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.032387420206388406, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 9, Accuracy: 1.0, similarity: -0.11807503694516064, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273]
+INFO:root:Classifier: 10, Accuracy: 1.0, similarity: -0.023407144191471052, similarity_list = similarity list [-0.003693923250706721, -0.014157999901550755]
+INFO:root:Classifier: 11, Accuracy: 1.0, similarity: -0.11240508124183979, similarity_list = similarity list [-0.0015433978917404056, -0.007145093028263605]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 4416 - 4445
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.0018755371361431905, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 12, state_similarity: 3
+
+INFO:root:cur_idx = 4428 - 4457
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.05110961309410755, similarity_list = similarity list [-0.0018755371361431905]
+INFO:root:Type1 - use current classifier 12, state_similarity: 3
+
+INFO:root:cur_idx = 4440 - 4469
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.021923361986445622, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755]
+INFO:root:Type1 - use current classifier 12, state_similarity: 2
+
+INFO:root:cur_idx = 4452 - 4481
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.017001415591685665, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4464 - 4493
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.03548463548517633, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4476 - 4505
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.024232098955182635, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4488 - 4517
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.028666720118211364, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4500 - 4529
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.01525741543717285, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4512 - 4541
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.0169693111581517, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4524 - 4553
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.01660453363049874, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4536 - 4565
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.03729799545691337, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4548 - 4577
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.029685279296714606, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type1 - use current classifier 12, state_similarity: 1
+
+INFO:root:cur_idx = 4560 - 4589
+INFO:root:Classifier: 12, Accuracy: 1.0, simiarity = -0.09143063670889284, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.06633586728746632, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.08196078995356271, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.10951014834355366, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.14157264040133366, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.20261242281767589, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.20046677594348095, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.20046677594348095, state_similarity: 1
+
+INFO:root:cur_idx = 4572 - 4601
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18995654212893087, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4584 - 4613
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19245358504046772, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4596 - 4625
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20945321401294004, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4608 - 4637
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21734690497861353, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4620 - 4649
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19595942406847466, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4632 - 4661
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19521974937742814, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4644 - 4673
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21667634953810666, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4656 - 4685
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20756608718293657, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4668 - 4697
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22485181096622808, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4680 - 4709
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22614937910393784, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4692 - 4721
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21088546573390432, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4704 - 4733
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19819665260898123, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4716 - 4745
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20859416388563423, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4728 - 4757
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20350142253353076, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4740 - 4769
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18915841858067872, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4752 - 4781
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2238079776493782, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4764 - 4793
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2286581133267772, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4776 - 4805
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22606610000579797, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4788 - 4817
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22605748861676767, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4800 - 4829
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23107300082206117, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4812 - 4841
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18545517360003894, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4824 - 4853
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1463743607825302, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4836 - 4865
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.15144601086367715, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4848 - 4877
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19725765624523306, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4860 - 4889
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2166213529106623, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4872 - 4901
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20922579363377136, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4884 - 4913
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2061964482936668, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4896 - 4925
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19802903182674003, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4908 - 4937
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19754716428257824, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4920 - 4949
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19155490566607847, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4932 - 4961
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19703910591982077, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4944 - 4973
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2037716979831763, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4956 - 4985
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23531082847351403, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4968 - 4997
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.24669119847694343, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4980 - 5009
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23097170004525702, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 4992 - 5021
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22218961034556584, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5004 - 5033
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.23477989485974238, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5016 - 5045
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2297773110688306, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5028 - 5057
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.217705792007301, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5040 - 5069
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2520533000115316, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5052 - 5081
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20993026483182842, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5064 - 5093
+INFO:root:Classifier: 6, Accuracy: 0.16666666666666666, simiarity = -0.18902532938172478, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5076 - 5105
+INFO:root:Classifier: 6, Accuracy: 0.5666666666666667, simiarity = -0.11772803924175212, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5088 - 5117
+INFO:root:Classifier: 6, Accuracy: 0.9666666666666667, simiarity = -0.4836885499715201, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.9666666666666667, similarity: -0.4467169502365438, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.9666666666666667, similarity: -0.5176416364215184, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.9666666666666667, similarity: -0.4948252440602606, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.9666666666666667, similarity: -0.5011361056705335, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.9666666666666667, similarity: -0.47297170685961165, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.9666666666666667, similarity: -0.4836885499715201, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 0.03333333333333333, similarity: -0.5189469774000195, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 0.03333333333333333, similarity: -0.5764803709635709, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 9, Accuracy: 0.03333333333333333, similarity: -0.11050072781448816, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273]
+INFO:root:Classifier: 10, Accuracy: 0.03333333333333333, similarity: -0.5545638952405342, similarity_list = similarity list [-0.003693923250706721, -0.014157999901550755]
+INFO:root:Classifier: 11, Accuracy: 0.03333333333333333, similarity: -0.5829820973696811, similarity_list = similarity list [-0.0015433978917404056, -0.007145093028263605]
+INFO:root:Classifier: 12, Accuracy: 0.03333333333333333, similarity: -0.5854848898212255, similarity_list = similarity list [-0.0018755371361431905, -0.05110961309410755, -0.021923361986445622]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 5100 - 5129
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.12416785290698296, similarity_list = similarity list []
+INFO:root:Type1 - use current classifier 13, state_similarity: 3
+
+INFO:root:cur_idx = 5112 - 5141
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.09572469925910765, similarity_list = similarity list [-0.12416785290698296]
+INFO:root:Type1 - use current classifier 13, state_similarity: 3
+
+INFO:root:cur_idx = 5124 - 5153
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.04047809112360268, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765]
+INFO:root:Type1 - use current classifier 13, state_similarity: 2
+
+INFO:root:cur_idx = 5136 - 5165
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.04257602603234534, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5148 - 5177
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.05742831977071117, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5160 - 5189
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.035088134744545973, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5172 - 5201
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.03391553446000317, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5184 - 5213
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.035191582896167195, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5196 - 5225
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.03333652208638005, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5208 - 5237
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.028218745392174394, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5220 - 5249
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.05096687192231586, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5232 - 5261
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.05735195540122995, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5244 - 5273
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.04360278433861786, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5256 - 5285
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.04671844947825765, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5268 - 5297
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.04368585864167884, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5280 - 5309
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.04695474152940393, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5292 - 5321
+INFO:root:Classifier: 13, Accuracy: 1.0, simiarity = -0.057244288731839954, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5304 - 5333
+INFO:root:Classifier: 13, Accuracy: 0.9666666666666667, simiarity = -0.03958014571842039, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5316 - 5345
+INFO:root:Classifier: 13, Accuracy: 0.5666666666666667, simiarity = -0.06304920071794862, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5328 - 5357
+INFO:root:Classifier: 13, Accuracy: 0.16666666666666666, simiarity = -0.11037857019323272, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5340 - 5369
+INFO:root:Classifier: 13, Accuracy: 0.0, simiarity = -0.13347746069847233, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5352 - 5381
+INFO:root:Classifier: 13, Accuracy: 0.0, simiarity = -0.14083903271940734, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Type1 - use current classifier 13, state_similarity: 1
+
+INFO:root:cur_idx = 5364 - 5393
+INFO:root:Classifier: 13, Accuracy: 0.0, simiarity = -0.16427921376605348, similarity_list = similarity list [-0.12416785290698296, -0.09572469925910765, -0.04047809112360268]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.11017153305293559, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.12379139163557795, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.15554061171862255, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.18286373736816885, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.2374073043571967, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.24138785933616258, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.24138785933616258, state_similarity: 1
+
+INFO:root:cur_idx = 5376 - 5405
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.25966472571513877, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.11370839343731687, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.16396897768526786, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.17135107708947384, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.20099947355948267, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.25807110194944205, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.25966472571513877, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.05875930059438761, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.02031364591950613, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.02031364591950613, state_similarity: 1
+
+INFO:root:cur_idx = 5388 - 5417
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.022485973288595806, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type1 - use current classifier 8, state_similarity: 1
+
+INFO:root:cur_idx = 5400 - 5429
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.04432044493649334, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.05468180329992223, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.06441657332681605, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.0873731179925461, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.10269024191031617, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.15420828246502405, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.1589818672455947, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.1589818672455947, state_similarity: 1
+
+INFO:root:cur_idx = 5412 - 5441
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.17820292457817632, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5424 - 5453
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18636781378558942, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5436 - 5465
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19227858018294997, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5448 - 5477
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1930406571042359, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5460 - 5489
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2143214935304869, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5472 - 5501
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.22068286129856807, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5484 - 5513
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2164433739280056, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5496 - 5525
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19828085526831762, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5508 - 5537
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.1952523558683814, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5520 - 5549
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19644894577719252, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5532 - 5561
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2575321407351563, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.11117504131483014, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.18293044010599135, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.15802420370787007, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.20340442820379334, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.25899525618481944, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2575321407351563, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.10442914780630441, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.023889531710295175, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.023889531710295175, state_similarity: 1
+
+INFO:root:cur_idx = 5544 - 5573
+INFO:root:Classifier: 8, Accuracy: 1.0, simiarity = -0.03424654188927945, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.136525815082834, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.22891437174704676, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.1799692874415767, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.2371945053833091, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.2897797082926622, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2772364209634802, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 1.0, similarity: -0.15024283580071474, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 1.0, similarity: -0.03424654188927945, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 9, Accuracy: 1.0, similarity: -0.05617138901040186, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273]
+INFO:root:Type2 - loop to last classifier9, similarity: -0.05617138901040186, state_similarity: 2
+
+INFO:root:cur_idx = 5556 - 5585
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.027012484363862055, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186]
+INFO:root:Type1 - use current classifier 9, state_similarity: 2
+
+INFO:root:cur_idx = 5568 - 5597
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.02952845125544301, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5580 - 5609
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.030775118316119232, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5592 - 5621
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.0338609908758879, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5604 - 5633
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.055936395465496336, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5616 - 5645
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.07474524663442395, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5628 - 5657
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03574685609967687, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5640 - 5669
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.02860584825330703, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5652 - 5681
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.02825287931947673, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5664 - 5693
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.055225775278411326, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5676 - 5705
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.062024975505730495, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5688 - 5717
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.05248865409017078, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5700 - 5729
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.07466646922774345, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5712 - 5741
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03964577218911325, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5724 - 5753
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03563354381775008, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5736 - 5765
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.028773345209827217, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5748 - 5777
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.05408386493481099, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5760 - 5789
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.06242568988701169, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5772 - 5801
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03572804419969644, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5784 - 5813
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03149848441351266, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5796 - 5825
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.0392831401031436, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5808 - 5837
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.0366184305198437, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5820 - 5849
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03497482455428591, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5832 - 5861
+INFO:root:Classifier: 9, Accuracy: 0.9666666666666667, simiarity = -0.03576861925045982, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5844 - 5873
+INFO:root:Classifier: 9, Accuracy: 0.5666666666666667, simiarity = -0.04797489433166158, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5856 - 5885
+INFO:root:Classifier: 9, Accuracy: 0.16666666666666666, simiarity = -0.10350385017403652, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Classifier: 1, Accuracy: 0.8333333333333334, similarity: -0.03721601037029021, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.8333333333333334, similarity: -0.07560429199512564, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.8333333333333334, similarity: -0.06573029505896189, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.8333333333333334, similarity: -0.0992272613934242, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.8333333333333334, similarity: -0.1431260728856245, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.8333333333333334, similarity: -0.10528189480741368, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.10528189480741368, state_similarity: 1
+
+INFO:root:cur_idx = 5868 - 5897
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.03579679558136628, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5880 - 5909
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.05434760824233198, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5892 - 5921
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.0620324453614054, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5904 - 5933
+INFO:root:Classifier: 6, Accuracy: 1.0, simiarity = -0.03590376590546207, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5916 - 5945
+INFO:root:Classifier: 6, Accuracy: 0.8333333333333334, simiarity = -0.08625825398591036, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5928 - 5957
+INFO:root:Classifier: 6, Accuracy: 0.43333333333333335, simiarity = -0.17636732745425077, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 5940 - 5969
+INFO:root:Classifier: 6, Accuracy: 0.03333333333333333, simiarity = -0.4308994592417805, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 1, Accuracy: 0.03333333333333333, similarity: -0.41214818986859003, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.03333333333333333, similarity: -0.44069657345622637, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.03333333333333333, similarity: -0.4159170417462963, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.03333333333333333, similarity: -0.4346256509301535, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.03333333333333333, similarity: -0.4379866548411342, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.03333333333333333, similarity: -0.4308994592417805, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Classifier: 7, Accuracy: 0.9666666666666667, similarity: -0.31584846157727475, similarity_list = similarity list [-0.0007258850826273866, -0.004640259160133442]
+INFO:root:Classifier: 8, Accuracy: 0.9666666666666667, similarity: -0.43977688630634204, similarity_list = similarity list [-0.005837982974018829, -0.022257438147286646, -0.010022265754391912]
+INFO:root:Classifier: 9, Accuracy: 0.9666666666666667, similarity: -0.037192696723131524, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type2 - loop to last classifier9, similarity: -0.037192696723131524, state_similarity: 1
+
+INFO:root:cur_idx = 5952 - 5981
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03506266413152559, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5964 - 5993
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.028963890232037715, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5976 - 6005
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.02168373090940423, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 5988 - 6017
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.023994819809650125, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6000 - 6029
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03953659448781588, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6012 - 6041
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03052665190143944, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6024 - 6053
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03696913379696265, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6036 - 6065
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.033615534495417765, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6048 - 6077
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.09266117852693245, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6060 - 6089
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.08475566299096315, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6072 - 6101
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.037011591148101486, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6084 - 6113
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.06881308285081944, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6096 - 6125
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.06058522216381812, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6108 - 6137
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03610154014493738, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6120 - 6149
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.04230464714387072, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6132 - 6161
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03710831145726856, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6144 - 6173
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.043486738456998686, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6156 - 6185
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03763237916317752, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6168 - 6197
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.041997736400971486, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6180 - 6209
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.0512245519085468, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6192 - 6221
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.034301398129359284, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6204 - 6233
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.04629943125397851, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6216 - 6245
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.030798342548658986, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6228 - 6257
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.04682702779545611, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6240 - 6269
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.040279364395892636, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6252 - 6281
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.026862839459521393, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6264 - 6293
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.022629515798812117, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6276 - 6305
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.049354092105987624, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6288 - 6317
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.050362247577636854, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6300 - 6329
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03293054874712453, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6312 - 6341
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.03400089869135092, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Type1 - use current classifier 9, state_similarity: 1
+
+INFO:root:cur_idx = 6324 - 6353
+INFO:root:Classifier: 9, Accuracy: 1.0, simiarity = -0.25871891004278835, similarity_list = similarity list [-0.043158828778085856, -0.08252668654055273, -0.05617138901040186, -0.027012484363862055]
+INFO:root:Classifier: 1, Accuracy: 0.0, similarity: -0.103388097552498, similarity_list = similarity list [-0.005119303764177241, -0.029322365015599705, -0.012266769983190096]
+INFO:root:Classifier: 2, Accuracy: 0.0, similarity: -0.22804584438346598, similarity_list = similarity list [-0.009586430509164967, -0.00835528893471671]
+INFO:root:Classifier: 3, Accuracy: 0.0, similarity: -0.19733426406690002, similarity_list = similarity list [-0.025133986868415947, -0.01982038367282235]
+INFO:root:Classifier: 4, Accuracy: 0.0, similarity: -0.27616285202289415, similarity_list = similarity list [-0.0026902994750930276, -0.017358451218319138]
+INFO:root:Classifier: 5, Accuracy: 0.0, similarity: -0.23663746133094088, similarity_list = similarity list [-0.009921085917320993, -0.023445922220459603]
+INFO:root:Classifier: 6, Accuracy: 0.0, similarity: -0.2489786855737982, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.2489786855737982, state_similarity: 1
+
+INFO:root:cur_idx = 6336 - 6365
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2525555940659293, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6348 - 6377
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21742483011779545, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6360 - 6389
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.21283969132423608, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6372 - 6401
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20206744764464957, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6384 - 6413
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19673006575110963, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6396 - 6425
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20033360862452143, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6408 - 6437
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.20673441990767039, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6420 - 6449
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.2044643944044161, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6432 - 6461
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19878577962930144, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6444 - 6473
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.18711897330531757, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6456 - 6485
+INFO:root:Classifier: 6, Accuracy: 0.0, simiarity = -0.19331488880606829, similarity_list = similarity list [-0.014196846797560503, -0.20242877004836046, -0.018281420714294394]
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 6468 - 6497
+

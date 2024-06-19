@@ -38,6 +38,7 @@ def fingerprint_percolumn(timeseries,FI= None,ignore_features=[]):
             emd = EMD(max_imf=2, spline_kind='slinear')
             IMFs = emd(np.array(timeseries), max_imf=2)
             for i, imf in enumerate(IMFs):
+                #print(imf)
                 if f"IMF_{i}" not in ignore_features:
                     stats[f"IMF_{i}"] = perm_entropy(imf)
             for i in range(3):

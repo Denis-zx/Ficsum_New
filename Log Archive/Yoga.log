@@ -1,0 +1,632 @@
+INFO:root:lenth = 50, overlap = 0.2, max_sim_factor = 1.5, min_sim_factor = 1.5
+INFO:root:
+INFO:root:number of run = 74
+INFO:root:cur_idx = 0 - 49
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:cur_idx = 40 - 89
+INFO:root:Classifier: 1, Accuracy: 0.66, simiarity = -0.03635823633192725, similarity_list = similarity list []
+INFO:root: max_similarity -0.03635823633192725
+INFO:root:Type1 - use current classifier 1, state_similarity: 3
+
+INFO:root:cur_idx = 80 - 129
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.6, simiarity = -0.030026548204550307, similarity_list = similarity list [-0.03635823633192725]
+INFO:root: max_similarity -0.03160947023639454
+INFO:root:Type1 - use current classifier 1, state_similarity: 3
+
+INFO:root:cur_idx = 120 - 169
+INFO:root:Classifier: 1, Accuracy: 0.54, simiarity = -0.039908080561980475, similarity_list = similarity list [-0.030026548204550307, -0.03635823633192725]
+INFO:root:Classifier: 1, Accuracy: 0.54, state_similarity:0, similarity: -0.039908080561980475, similarity_list = similarity list [-0.030026548204550307, -0.03635823633192725]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 160 - 209
+INFO:root:Classifier: 2, Accuracy: 0.8, simiarity = -0.6120411701874755, similarity_list = similarity list []
+INFO:root: max_similarity -0.6120411701874755
+INFO:root:Type1 - use current classifier 2, state_similarity: 3
+
+INFO:root:cur_idx = 200 - 249
+INFO:root:Classifier: 2, Accuracy: 0.6, simiarity = -0.052719434377437646, similarity_list = similarity list [-0.6120411701874755]
+INFO:root: max_similarity -0.19254986832994714
+INFO:root:Type1 - use current classifier 2, state_similarity: 3
+
+INFO:root:cur_idx = 240 - 289
+INFO:root:Classifier: 2, Accuracy: 0.68, simiarity = -0.03231387371119265, similarity_list = similarity list [-0.052719434377437646, -0.6120411701874755]
+INFO:root: max_similarity -0.010935158652594305
+INFO:root:Type1 - use current classifier 2, state_similarity: 2
+
+INFO:root:cur_idx = 280 - 329
+INFO:root:Classifier: 2, Accuracy: 0.46, simiarity = -0.06613949436111632, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 1, Accuracy: 0.52, state_similarity:0, similarity: -0.05055512402266349, similarity_list = similarity list [-0.030026548204550307, -0.03635823633192725]
+INFO:root:Classifier: 2, Accuracy: 0.46, state_similarity:0, similarity: -0.06613949436111632, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 320 - 369
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.54, simiarity = -0.11596139972761754, similarity_list = similarity list []
+INFO:root: max_similarity -0.11596139972761754
+INFO:root:Type1 - use current classifier 3, state_similarity: 3
+
+INFO:root:cur_idx = 360 - 409
+INFO:root:Classifier: 3, Accuracy: 0.44, simiarity = -0.030400675284074308, similarity_list = similarity list [-0.11596139972761754]
+INFO:root: max_similarity -0.051790856394960116
+INFO:root:Type1 - use current classifier 3, state_similarity: 3
+
+INFO:root:cur_idx = 400 - 449
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.48, simiarity = -0.024630044654717742, similarity_list = similarity list [-0.030400675284074308, -0.11596139972761754]
+INFO:root: max_similarity -0.019330047361603993
+INFO:root:Type1 - use current classifier 3, state_similarity: 2
+
+INFO:root:cur_idx = 440 - 489
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.6, simiarity = -0.03395645859135854, similarity_list = similarity list [-0.019876145240786847, -0.027299383603258343, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.66, state_similarity:2, similarity: -0.019877697943595285, similarity_list = similarity list [-0.030026548204550307, -0.03635823633192725]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.42, state_similarity:0, similarity: -0.03692401717308902, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.6, state_similarity:0, similarity: -0.03395645859135854, similarity_list = similarity list [-0.019876145240786847, -0.027299383603258343, -0.024630044654717742]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.019877697943595285, state_similarity: 2
+
+INFO:root:cur_idx = 480 - 529
+INFO:root:Classifier: 1, Accuracy: 0.44, simiarity = -0.047601866548718674, similarity_list = similarity list [-0.02118701128825695, -0.022937947764751332, -0.019877697943595285]
+INFO:root:Classifier: 1, Accuracy: 0.44, state_similarity:0, similarity: -0.047601866548718674, similarity_list = similarity list [-0.02118701128825695, -0.022937947764751332, -0.019877697943595285]
+INFO:root:Classifier: 2, Accuracy: 0.56, state_similarity:0, similarity: -0.04899781094472078, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.4, state_similarity:1, similarity: -0.024574778696546784, similarity_list = similarity list [-0.019876145240786847, -0.027299383603258343, -0.024630044654717742]
+INFO:root:Type2 - loop to last classifier3, similarity: -0.024574778696546784, state_similarity: 1
+
+INFO:root:cur_idx = 520 - 569
+INFO:root:Classifier: 3, Accuracy: 0.38, simiarity = -0.02768079577452598, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 1, Accuracy: 0.36, state_similarity:0, similarity: -0.034650169881252024, similarity_list = similarity list [-0.02118701128825695, -0.022937947764751332, -0.019877697943595285]
+INFO:root:Classifier: 2, Accuracy: 0.66, state_similarity:0, similarity: -0.04756448216608977, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.38, state_similarity:0, similarity: -0.02768079577452598, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 560 - 609
+INFO:root:Classifier: 4, Accuracy: 0.76, simiarity = -0.4153348789248489, similarity_list = similarity list []
+INFO:root: max_similarity -0.4153348789248489
+INFO:root:Type1 - use current classifier 4, state_similarity: 3
+
+INFO:root:cur_idx = 600 - 649
+INFO:root:Classifier: 4, Accuracy: 0.68, simiarity = -0.056725963197739926, similarity_list = similarity list [-0.4153348789248489]
+INFO:root: max_similarity -0.1463781921295172
+INFO:root:Type1 - use current classifier 4, state_similarity: 3
+
+INFO:root:cur_idx = 640 - 689
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.8, simiarity = -0.033472367423913574, similarity_list = similarity list [-0.056725963197739926, -0.4153348789248489]
+INFO:root: max_similarity -0.017643013599202298
+INFO:root:Type1 - use current classifier 4, state_similarity: 2
+
+INFO:root:cur_idx = 680 - 729
+INFO:root:Classifier: 4, Accuracy: 0.7, simiarity = -0.02207692872607403, similarity_list = similarity list [-0.020543783802839166, -0.023687022951755288, -0.033472367423913574]
+INFO:root:t_critical_value -2.1318467813362907,max_similarity_allowed -0.0328790833295121
+INFO:root:Type1 - use current classifier 4, state_similarity: 1
+
+INFO:root:cur_idx = 720 - 769
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.68, simiarity = -0.013780539216493914, similarity_list = similarity list [-0.020543783802839166, -0.023687022951755288, -0.033472367423913574]
+INFO:root: max_similarity -0.010717772812319311
+INFO:root:Type1 - use current classifier 4, state_similarity: 2
+
+INFO:root:cur_idx = 760 - 809
+INFO:root:Classifier: 4, Accuracy: 0.64, simiarity = -0.02379558794452985, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.03936046566205975, -0.013780539216493914]
+INFO:root:t_critical_value -1.9431802803927818,max_similarity_allowed -0.03428607856640562yes
+INFO:root:Type1 - use current classifier 4, state_similarity: 1
+
+INFO:root:cur_idx = 800 - 849
+INFO:root:Classifier: 4, Accuracy: 0.66, simiarity = -0.06076297834589994, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 1, Accuracy: 0.5, state_similarity:0, similarity: -0.0317106671459203, similarity_list = similarity list [-0.02118701128825695, -0.022937947764751332, -0.019877697943595285]
+INFO:root:Classifier: 2, Accuracy: 0.54, state_similarity:0, similarity: -0.0691443386714734, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.48, state_similarity:1, similarity: -0.023639975467702357, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.66, state_similarity:0, similarity: -0.06076297834589994, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Type2 - loop to last classifier3, similarity: -0.023639975467702357, state_similarity: 1
+
+INFO:root:cur_idx = 840 - 889
+INFO:root:Classifier: 3, Accuracy: 0.6, simiarity = -0.03801009211289885, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 1, Accuracy: 0.58, state_similarity:2, similarity: -0.01552344190549726, similarity_list = similarity list [-0.02118701128825695, -0.022937947764751332, -0.019877697943595285]
+INFO:root:Classifier: 2, Accuracy: 0.58, state_similarity:1, similarity: -0.023762946628493986, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.6, state_similarity:0, similarity: -0.03801009211289885, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.5, state_similarity:1, similarity: -0.026056142297012252, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.01552344190549726, state_similarity: 2
+
+INFO:root:cur_idx = 880 - 929
+INFO:root:Classifier: 1, Accuracy: 0.62, simiarity = -0.022510754671409283, similarity_list = similarity list [-0.02701024958980991, -0.029157997473612585, -0.02715955926531788, -0.01552344190549726]
+INFO:root:t_critical_value -2.0150483726691575,max_similarity_allowed -0.027714887807486835yes
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 920 - 969
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.66, simiarity = -0.04287809237646556, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.66, state_similarity:0, similarity: -0.04287809237646556, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.58, state_similarity:0, similarity: -0.03553964757009054, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.48, state_similarity:0, similarity: -0.029542749129939705, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.66, state_similarity:0, similarity: -0.08322103113775314, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 960 - 1009
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.72, simiarity = -0.09460261546249737, similarity_list = similarity list []
+INFO:root: max_similarity -0.09460261546249737
+INFO:root:Type1 - use current classifier 5, state_similarity: 3
+
+INFO:root:cur_idx = 1000 - 1049
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.56, simiarity = -0.034970471422484994, similarity_list = similarity list [-0.09460261546249737]
+INFO:root: max_similarity -0.04987850743248809
+INFO:root:Type1 - use current classifier 5, state_similarity: 3
+
+INFO:root:cur_idx = 1040 - 1089
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.54, simiarity = -0.02275117768223356, similarity_list = similarity list [-0.034970471422484994, -0.09460261546249737]
+INFO:root: max_similarity -0.015392944343990264
+INFO:root:Type1 - use current classifier 5, state_similarity: 2
+
+INFO:root:cur_idx = 1080 - 1129
+INFO:root:Classifier: 5, Accuracy: 0.66, simiarity = -0.016315006936819643, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:t_critical_value -2.1318467813362907,max_similarity_allowed -0.022704719020980178
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 1120 - 1169
+INFO:root:Classifier: 5, Accuracy: 0.64, simiarity = -0.01606046682014195, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:t_critical_value -2.0150483726691575,max_similarity_allowed -0.022276425230015
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 1160 - 1209
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.64, simiarity = -0.03154316651763678, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 1, Accuracy: 0.78, state_similarity:1, similarity: -0.026136119812401493, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.6, state_similarity:1, similarity: -0.027315766509369732, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.52, state_similarity:0, similarity: -0.03880791905825154, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.48, state_similarity:0, similarity: -0.33326226926132374, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.64, state_similarity:0, similarity: -0.03154316651763678, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Type2 - loop to last classifier1, similarity: -0.026136119812401493, state_similarity: 1
+
+INFO:root:cur_idx = 1200 - 1249
+INFO:root:Classifier: 1, Accuracy: 0.68, simiarity = -0.028515767107084367, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:
+INFO:root:Type1 - use current classifier 1, state_similarity: 1
+
+INFO:root:cur_idx = 1240 - 1289
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.7, simiarity = -0.055051932528321745, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.7, state_similarity:0, similarity: -0.055051932528321745, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.54, state_similarity:0, similarity: -0.0375428086951799, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.54, state_similarity:0, similarity: -0.032553485111668445, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.64, state_similarity:0, similarity: -0.06213108816964141, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.56, state_similarity:0, similarity: -0.02915115608333252, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 1280 - 1329
+INFO:root:Classifier: 6, Accuracy: 0.8, simiarity = -0.08163344215928003, similarity_list = similarity list []
+INFO:root: max_similarity -0.08163344215928003
+INFO:root:Type1 - use current classifier 6, state_similarity: 3
+
+INFO:root:cur_idx = 1320 - 1369
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.76, simiarity = -0.02166510779990871, similarity_list = similarity list [-0.08163344215928003]
+INFO:root: max_similarity -0.03665719138975154
+INFO:root:Type1 - use current classifier 6, state_similarity: 3
+
+INFO:root:cur_idx = 1360 - 1409
+INFO:root:Classifier: 6, Accuracy: 0.6, simiarity = -0.04466594540580082, similarity_list = similarity list [-0.02166510779990871, -0.08163344215928003]
+INFO:root:t_critical_value -2.3533634348018273,max_similarity_allowed -0.08819314811017062
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1400 - 1449
+INFO:root:Classifier: 6, Accuracy: 0.62, simiarity = -0.02487353435309514, similarity_list = similarity list [-0.02166510779990871, -0.08163344215928003]
+INFO:root: max_similarity -0.017776207996857085
+INFO:root:Type1 - use current classifier 6, state_similarity: 2
+
+INFO:root:cur_idx = 1440 - 1489
+INFO:root:Classifier: 6, Accuracy: 0.76, simiarity = -0.012404371864149, similarity_list = similarity list [-0.018312247572281892, -0.028070830385669154, -0.02487353435309514]
+INFO:root: max_similarity -0.011560851922021541
+INFO:root:Type1 - use current classifier 6, state_similarity: 2
+
+INFO:root:cur_idx = 1480 - 1529
+INFO:root:Classifier: 6, Accuracy: 0.66, simiarity = -0.016362937136724542, similarity_list = similarity list [-0.0166616384372813, -0.02591782956452282, -0.02443115415948882, -0.012404371864149]
+INFO:root:t_critical_value -1.9431802803927818,max_similarity_allowed -0.02404603156252963yes
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 1520 - 1569
+INFO:root:Classifier: 6, Accuracy: 0.62, simiarity = -0.0682027353588186, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 1, Accuracy: 0.7, state_similarity:0, similarity: -0.04572833893003936, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.62, state_similarity:0, similarity: -0.048376066446087496, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.46, state_similarity:0, similarity: -0.029811309517949636, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.64, state_similarity:0, similarity: -0.13695248125456683, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.58, state_similarity:0, similarity: -0.02382832736789242, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.62, state_similarity:0, similarity: -0.0682027353588186, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 1560 - 1609
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.58, simiarity = -0.15507229644467424, similarity_list = similarity list []
+INFO:root: max_similarity -0.15507229644467424
+INFO:root:Type1 - use current classifier 7, state_similarity: 3
+
+INFO:root:cur_idx = 1600 - 1649
+INFO:root:Classifier: 7, Accuracy: 0.54, simiarity = -0.028556474055158487, similarity_list = similarity list [-0.15507229644467424]
+INFO:root: max_similarity -0.060185429652537425
+INFO:root:Type1 - use current classifier 7, state_similarity: 3
+
+INFO:root:cur_idx = 1640 - 1689
+INFO:root:Classifier: 7, Accuracy: 0.48, simiarity = -0.023340803335669236, similarity_list = similarity list [-0.028556474055158487, -0.15507229644467424]
+INFO:root: max_similarity -0.013242345644431313
+INFO:root:Type1 - use current classifier 7, state_similarity: 2
+
+INFO:root:cur_idx = 1680 - 1729
+INFO:root:Classifier: 7, Accuracy: 0.7, simiarity = -0.04921256358468029, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:Classifier: 1, Accuracy: 0.66, state_similarity:0, similarity: -0.06825923684982649, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.54, state_similarity:0, similarity: -0.03672658700745368, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.52, state_similarity:0, similarity: -0.042712308194553184, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.64, state_similarity:0, similarity: -0.04260626073565765, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.7, state_similarity:0, similarity: -0.024225781681495917, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.62, state_similarity:0, similarity: -0.03593427926236725, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.7, state_similarity:0, similarity: -0.04921256358468029, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:Type3 -new classifier generate
+
+INFO:root:cur_idx = 1720 - 1769
+INFO:root:Classifier: 8, Accuracy: 0.7, simiarity = -0.16080108669265236, similarity_list = similarity list []
+INFO:root: max_similarity -0.16080108669265236
+INFO:root:Type1 - use current classifier 8, state_similarity: 3
+
+INFO:root:cur_idx = 1760 - 1809
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.8, simiarity = -0.018148468839876974, similarity_list = similarity list [-0.16080108669265236]
+INFO:root: max_similarity -0.05381162330307082
+INFO:root:Type1 - use current classifier 8, state_similarity: 3
+
+INFO:root:cur_idx = 1800 - 1849
+INFO:root:Classifier: 8, Accuracy: 0.62, simiarity = -0.039610471683187765, similarity_list = similarity list [-0.018148468839876974, -0.16080108669265236]
+INFO:root: max_similarity -0.036125571011766444
+INFO:root:Type1 - use current classifier 8, state_similarity: 2
+
+INFO:root:cur_idx = 1840 - 1889
+INFO:root:Classifier: 8, Accuracy: 0.62, simiarity = -0.04328114085672918, similarity_list = similarity list [-0.036804039540143885, -0.042586169032782006, -0.039610471683187765]
+INFO:root:Classifier: 1, Accuracy: 0.62, state_similarity:1, similarity: -0.021056231893474275, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.52, state_similarity:1, similarity: -0.027614440909894955, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.58, state_similarity:0, similarity: -0.03257841635522518, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.58, state_similarity:1, similarity: -0.020807709710783717, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.72, state_similarity:0, similarity: -0.02314722886047027, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.56, state_similarity:1, similarity: -0.0195843479245964, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.5, state_similarity:1, similarity: -0.018218071169890382, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:Classifier: 8, Accuracy: 0.62, state_similarity:0, similarity: -0.04328114085672918, similarity_list = similarity list [-0.036804039540143885, -0.042586169032782006, -0.039610471683187765]
+INFO:root:Type2 - loop to last classifier7, similarity: -0.018218071169890382, state_similarity: 1
+
+INFO:root:cur_idx = 1880 - 1929
+INFO:root:Classifier: 7, Accuracy: 0.52, simiarity = -0.01612676674191793, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:t_critical_value -2.0150483726691575,max_similarity_allowed -0.022846284002664655
+INFO:root:Type1 - use current classifier 7, state_similarity: 1
+
+INFO:root:cur_idx = 1920 - 1969
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.6, simiarity = -0.026972151716376125, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.76, state_similarity:0, similarity: -0.04195255637310058, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.44, state_similarity:0, similarity: -0.03517270315131027, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.62, state_similarity:0, similarity: -0.10427405328855655, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.6, state_similarity:0, similarity: -0.035708248174534885, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.72, state_similarity:1, similarity: -0.015598869631587187, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.68, state_similarity:1, similarity: -0.021634839800087846, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.6, state_similarity:0, similarity: -0.026972151716376125, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.74, state_similarity:2, similarity: -0.02736641353382574, similarity_list = similarity list [-0.036804039540143885, -0.042586169032782006, -0.039610471683187765]
+INFO:root:Type2 - loop to last classifier5, similarity: -0.015598869631587187, state_similarity: 1
+
+INFO:root:cur_idx = 1960 - 2009
+INFO:root:Classifier: 5, Accuracy: 0.68, simiarity = -0.020958791195266224, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:t_critical_value -1.8945786050613054,max_similarity_allowed -0.02156889959504853
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 2000 - 2049
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.64, simiarity = -0.047416041812498366, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.6, state_similarity:0, similarity: -0.08054222757875351, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.5, state_similarity:0, similarity: -0.3147967583802428, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.5, state_similarity:0, similarity: -0.11365876430322763, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.58, state_similarity:0, similarity: -0.09627619231008133, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.64, state_similarity:0, similarity: -0.047416041812498366, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.6, state_similarity:0, similarity: -0.056831022876063786, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.62, state_similarity:0, similarity: -0.07588158923256372, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.6, state_similarity:2, similarity: -0.02771806315231462, similarity_list = similarity list [-0.036804039540143885, -0.042586169032782006, -0.039610471683187765]
+INFO:root:Type2 - loop to last classifier8, similarity: -0.02771806315231462, state_similarity: 2
+
+INFO:root:cur_idx = 2040 - 2089
+INFO:root:Classifier: 8, Accuracy: 0.66, simiarity = -0.12403578044237562, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.58, state_similarity:0, similarity: -0.04247484925484879, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.48, state_similarity:1, similarity: -0.03195726573911584, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.62, state_similarity:0, similarity: -0.027640502053383642, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.46, state_similarity:0, similarity: -0.09738906538662451, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.68, state_similarity:0, similarity: -0.02567719676971325, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.5, state_similarity:0, similarity: -0.035005477898810144, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.56, state_similarity:0, similarity: -0.032946373135532614, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:Classifier: 8, Accuracy: 0.66, state_similarity:0, similarity: -0.12403578044237562, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier2, similarity: -0.03195726573911584, state_similarity: 1
+
+INFO:root:cur_idx = 2080 - 2129
+INFO:root:Classifier: 2, Accuracy: 0.46, simiarity = -0.023225140522168397, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:t_critical_value -2.0150483726691575,max_similarity_allowed -0.030260364668462974
+INFO:root:Type1 - use current classifier 2, state_similarity: 1
+
+INFO:root:cur_idx = 2120 - 2169
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.52, simiarity = -0.04123850996653766, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.68, state_similarity:1, similarity: -0.031080013973687093, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.52, state_similarity:0, similarity: -0.04123850996653766, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.48, state_similarity:0, similarity: -0.031235830451355917, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.56, state_similarity:0, similarity: -0.03612637542435715, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.58, state_similarity:0, similarity: -0.028401646322490093, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.58, state_similarity:1, similarity: -0.022499856364168513, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.56, state_similarity:0, similarity: -0.026637401950008188, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.48, state_similarity:1, similarity: -0.03797979607205082, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.022499856364168513, state_similarity: 1
+
+INFO:root:cur_idx = 2160 - 2209
+INFO:root:Classifier: 6, Accuracy: 0.64, simiarity = -0.025306891310865387, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 1, Accuracy: 0.8, state_similarity:0, similarity: -0.04528805121789892, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.62, state_similarity:1, similarity: -0.032048721884765596, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.44, state_similarity:0, similarity: -0.03430256568033496, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.66, state_similarity:0, similarity: -0.045436316123174336, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.56, state_similarity:1, similarity: -0.020323261131954595, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.64, state_similarity:0, similarity: -0.025306891310865387, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.6, state_similarity:0, similarity: -0.02685123149198798, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:Classifier: 8, Accuracy: 0.5, state_similarity:1, similarity: -0.02848418229790961, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier5, similarity: -0.020323261131954595, state_similarity: 1
+
+INFO:root:cur_idx = 2200 - 2249
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.58, simiarity = -0.03514259293896327, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 1, Accuracy: 0.66, state_similarity:1, similarity: -0.02366532740903038, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.52, state_similarity:1, similarity: -0.03126627116519509, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.54, state_similarity:0, similarity: -0.1064934187490798, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.52, state_similarity:0, similarity: -0.048116402346696785, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.58, state_similarity:0, similarity: -0.03514259293896327, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.62, state_similarity:1, similarity: -0.01585607286886148, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.62, state_similarity:1, similarity: -0.014849084344437102, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root:Classifier: 8, Accuracy: 0.6, state_similarity:0, similarity: -0.04933977563910208, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier7, similarity: -0.014849084344437102, state_similarity: 1
+
+INFO:root:cur_idx = 2240 - 2289
+INFO:root:Classifier: 7, Accuracy: 0.58, simiarity = -0.01246627157074176, similarity_list = similarity list [-0.015588245808370482, -0.016428676525160668, -0.023340803335669236]
+INFO:root: max_similarity -0.009648269315163598
+INFO:root:Type1 - use current classifier 7, state_similarity: 2
+
+INFO:root:cur_idx = 2280 - 2329
+INFO:root:Classifier: 7, Accuracy: 0.56, simiarity = -0.025344014094658696, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.025293532521912354, -0.01246627157074176]
+INFO:root:t_critical_value -1.8595480375228428,max_similarity_allowed -0.023412113054747392yes
+INFO:root:Type1 - use current classifier 7, state_similarity: 1
+
+INFO:root:cur_idx = 2320 - 2369
+INFO:root:Classifier: 7, Accuracy: 0.64, simiarity = -0.0876267589297769, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.58, state_similarity:1, similarity: -0.02799801237073085, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.52, state_similarity:1, similarity: -0.017391134922677853, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.6, state_similarity:0, similarity: -0.09889496834354472, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.5, state_similarity:0, similarity: -0.04792416451834858, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.66, state_similarity:1, similarity: -0.021100097984962374, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.52, state_similarity:1, similarity: -0.015097538115035114, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.64, state_similarity:0, similarity: -0.0876267589297769, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:root:Classifier: 8, Accuracy: 0.74, state_similarity:1, similarity: -0.03056824685775339, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.015097538115035114, state_similarity: 1
+
+INFO:root:cur_idx = 2360 - 2409
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.74, simiarity = -0.01680873013462958, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2400 - 2449
+INFO:root:Classifier: 6, Accuracy: 0.58, simiarity = -0.0242704213465893, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:
+INFO:root:Type1 - use current classifier 6, state_similarity: 1
+
+INFO:root:cur_idx = 2440 - 2489
+INFO:root:Classifier: 6, Accuracy: 0.6, simiarity = -0.026628862249261975, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.7, state_similarity:1, similarity: -0.026099890772505074, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.58, state_similarity:1, similarity: -0.03247460053171358, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.5, state_similarity:0, similarity: -0.041202491760870874, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.56, state_similarity:0, similarity: -0.033207384240712456, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.68, state_similarity:0, similarity: -0.0244407677032924, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.6, state_similarity:0, similarity: -0.026628862249261975, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.66, state_similarity:1, similarity: -0.01703325945225409, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:root:Classifier: 8, Accuracy: 0.66, state_similarity:0, similarity: -0.045207122527013754, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier7, similarity: -0.01703325945225409, state_similarity: 1
+
+INFO:root:cur_idx = 2480 - 2529
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.58, simiarity = -0.03843214047962651, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.64, state_similarity:0, similarity: -0.043617616526612446, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.54, state_similarity:0, similarity: -0.05122671649588162, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.44, state_similarity:1, similarity: -0.02096032354126076, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.62, state_similarity:0, similarity: -0.050153734075791045, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.48, state_similarity:1, similarity: -0.015565998654571978, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.6, state_similarity:1, similarity: -0.018290348289166203, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.58, state_similarity:0, similarity: -0.03843214047962651, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.52, state_similarity:2, similarity: -0.019360814531224513, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier5, similarity: -0.015565998654571978, state_similarity: 1
+
+INFO:root:cur_idx = 2520 - 2569
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.52, simiarity = -0.021284004965456238, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:t_critical_value -1.8124611228107341,max_similarity_allowed -0.020866174352402008
+INFO:root:Type1 - use current classifier 5, state_similarity: 1
+
+INFO:root:cur_idx = 2560 - 2609
+INFO:root:Classifier: 5, Accuracy: 0.6, simiarity = -0.0429976450506393, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.62, state_similarity:0, similarity: -0.034355929059018964, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.44, state_similarity:1, similarity: -0.0289257024774201, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.62, state_similarity:1, similarity: -0.025170940597517344, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.5, state_similarity:0, similarity: -0.03439295485980309, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.6, state_similarity:0, similarity: -0.0429976450506393, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:root:Classifier: 6, Accuracy: 0.72, state_similarity:1, similarity: -0.021888453693096888, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.68, state_similarity:0, similarity: -0.09361504229618467, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:root:Classifier: 8, Accuracy: 0.62, state_similarity:0, similarity: -0.14057252801541176, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.021888453693096888, state_similarity: 1
+
+INFO:root:cur_idx = 2600 - 2649
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.56, simiarity = -0.031074712333535093, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.68, state_similarity:1, similarity: -0.031207399286772297, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.44, state_similarity:1, similarity: -0.029136492630516653, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.62, state_similarity:0, similarity: -0.04145361775872769, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.52, state_similarity:1, similarity: -0.023726050472015814, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.66, state_similarity:0, similarity: -0.03978784630184318, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.56, state_similarity:0, similarity: -0.031074712333535093, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.62, state_similarity:0, similarity: -0.06608456765658832, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.62, state_similarity:0, similarity: -0.06354562742015224, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier4, similarity: -0.023726050472015814, state_similarity: 1
+
+INFO:root:cur_idx = 2640 - 2689
+INFO:root:Classifier: 4, Accuracy: 0.6, simiarity = -0.01852609730429655, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:
+INFO:root:Type1 - use current classifier 4, state_similarity: 1
+
+INFO:root:cur_idx = 2680 - 2729
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.44, simiarity = -0.02367643546322129, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:
+INFO:root:Type1 - use current classifier 4, state_similarity: 1
+
+INFO:root:cur_idx = 2720 - 2769
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.6, simiarity = -0.050943099337314224, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.66, state_similarity:1, similarity: -0.026127804930845655, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 2, Accuracy: 0.56, state_similarity:0, similarity: -0.10109030160700982, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 3, Accuracy: 0.46, state_similarity:0, similarity: -0.03045196513722237, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 4, Accuracy: 0.6, state_similarity:0, similarity: -0.050943099337314224, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 5, Accuracy: 0.62, state_similarity:1, similarity: -0.016240302131945272, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.58, state_similarity:1, similarity: -0.01661021127285134, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 7, Accuracy: 0.54, state_similarity:1, similarity: -0.018513272163314665, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 8, Accuracy: 0.56, state_similarity:1, similarity: -0.03466394541337847, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier5, similarity: -0.016240302131945272, state_similarity: 1
+
+INFO:root:cur_idx = 2760 - 2809
+INFO:root:Classifier: 5, Accuracy: 0.62, simiarity = -0.03067245595581891, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 1, Accuracy: 0.52, state_similarity:1, similarity: -0.027460932756159018, similarity_list = similarity list [-0.02701024958980991, -0.02715955926531788, -0.01552344190549726]
+INFO:root:Classifier: 2, Accuracy: 0.44, state_similarity:0, similarity: -0.11331390387341711, similarity_list = similarity list [-0.01487967452759742, -0.019057053386885126, -0.03231387371119265]
+INFO:root:Classifier: 3, Accuracy: 0.58, state_similarity:0, similarity: -0.11445395847125128, similarity_list = similarity list [-0.019876145240786847, -0.024630044654717742]
+INFO:root:Classifier: 4, Accuracy: 0.56, state_similarity:0, similarity: -0.037837348300972184, similarity_list = similarity list [-0.022525144193149882, -0.026687970869211597, -0.013780539216493914]
+INFO:root:Classifier: 5, Accuracy: 0.62, state_similarity:0, similarity: -0.03067245595581891, similarity_list = similarity list [-0.016986729004702217, -0.01785789154516082, -0.02275117768223356]
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
+INFO:root:Classifier: 6, Accuracy: 0.5, state_similarity:1, similarity: -0.020253876143671246, similarity_list = similarity list [-0.0166616384372813, -0.02443115415948882, -0.012404371864149]
+INFO:root:Classifier: 7, Accuracy: 0.66, state_similarity:0, similarity: -0.025677681592281565, similarity_list = similarity list [-0.023404549639799765, -0.012010988964426317, -0.01246627157074176]
+INFO:root:Classifier: 8, Accuracy: 0.7, state_similarity:0, similarity: -0.05154925913166575, similarity_list = similarity list [-0.03760005827075674, -0.03862411517364561, -0.03349655151325526, -0.02771806315231462]
+INFO:root:Type2 - loop to last classifier6, similarity: -0.020253876143671246, state_similarity: 1
+
+INFO:root:cur_idx = 2800 - 2849
+INFO:PyEMD.EMD:Max iterations reached for IMF. Continuing with another IMF.
